@@ -18,14 +18,22 @@ body {
   background: #eef1f3;
 }
 
+
 h1 {
 	font-family: "Gill Sans";
 	margin-top: 40px;
 	margin-left: 40px;
 }
 
-#all-progress-bars {
-	margin-left: 30px;
+.book {
+	margin-top: 60px;
+	margin-bottom: 60px;
+}
+
+.book:after {
+  content: "";
+  display: table;
+  clear: both;
 }
 
 .progress-wrapper {
