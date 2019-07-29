@@ -1,8 +1,9 @@
 [
 	{
-		"manhattan": [
+		"title": "GRE Manhattan 5lb. Book",
+		"sections": [
             {"name": "Text Completions", "completed": 15, "total": 144, "wrong": [3,11,12,15]},
-			{"name": "Sentence Equivalence", "completed": 0, "total": 147},
+			{"name": "Sentence Equivalence", "completed": 15, "total": 147, "wrong": [1,2,3,7,8,9,11,12,14]},
 			{"name": "Reading Comprehension", "completed": 0, "total": 170},
 			{"name": "Logic-Based Reading Comprehension", "completed": 0, "total": 58},
 			{"name": "Arithmetic", "completed": 20, "total": 28, "wrong": [10]},
@@ -37,8 +38,11 @@
 			{"name": "Math Practice - Easy", "completed": 0, "total": 20},
 			{"name": "Math Practice - Medium", "completed": 0, "total": 20},
 			{"name": "Math Practice - Hard", "completed": 0, "total": 20}
-		],
-		"gre-guide": [
+		]
+	},
+	{
+		"title": "GRE Official Guide",
+		"sections": [
 			{"name": "Verbal Set 1 (Discrete) - Easy", "completed": 8, "total": 8},
 			{"name": "Verbal Set 2 (Reading) - Easy", "completed": 9, "total": 9},
 			{"name": "Verbal Set 3 (Discrete) - Medium", "completed": 8, "total": 8, "wrong": [6,7,8]},
@@ -57,8 +61,11 @@
 			{"name": "Test 2 - Verbal 2", "completed": 0, "total": 25},
 			{"name": "Test 2 - Math 1", "completed": 0, "total": 25},
 			{"name": "Test 2 - Math 2", "completed": 0, "total": 25}
-		],
-		"gre-verbal-practice": [
+		]
+	},
+	{
+		"title": "GRE Official Verbal Practice",
+		"sections": [
 			{"name": "Reading Comp. - Easy", "completed": 9, "total": 9, "wrong": [8,9]},
 			{"name": "Reading Comp. - Medium", "completed": 11, "total": 11, "wrong": [9,10,11]},
 			{"name": "Reading Comp. - Hard", "completed": 0, "total": 10},
@@ -68,6 +75,18 @@
 			{"name": "Sentence Equiv. - Easy", "completed": 0, "total": 5},
 			{"name": "Sentence Equiv. - Medium", "completed": 0, "total": 8},
 			{"name": "Sentence Equiv. - Hard", "completed": 0, "total": 7},
+			{"name": "Mixed Set 1", "completed": 0, "total": 25},
+			{"name": "Mixed Set 2", "completed": 0, "total": 25},
+			{"name": "Mixed Set 3", "completed": 0, "total": 25}
+		]
+	},
+	{
+		"title": "GRE Official Quantitative Practice",
+		"sections": [
+			{"name": "Arithmetic", "completed": 0, "total": 19},
+			{"name": "Algebra", "completed": 0, "total": 17},
+			{"name": "Geometry", "completed": 0, "total": 13},
+			{"name": "Data Analysis", "completed": 0, "total": 26},
 			{"name": "Mixed Set 1", "completed": 0, "total": 25},
 			{"name": "Mixed Set 2", "completed": 0, "total": 25},
 			{"name": "Mixed Set 3", "completed": 0, "total": 25}
