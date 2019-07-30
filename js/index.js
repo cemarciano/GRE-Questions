@@ -5,7 +5,7 @@ const horizontalScale = 6;
 $(document).ready(function(){
 
 	// Loads data:
-	jQuery.get({ url: 'data.json', cache: false }).done(function (data) {
+	jQuery.get({ url: 'json/questions.json', cache: false }).done(function (data) {
 
 		data.forEach(book => {
 			let div = $("<div></div>").addClass("book");

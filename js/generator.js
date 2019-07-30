@@ -8,7 +8,7 @@ var words;
 $(document).ready(function(){
 
 	// Loads data:
-	jQuery.get({ url: 'words.json', cache: false }).done(function (data) {
+	jQuery.get({ url: 'json/words.json', cache: false }).done(function (data) {
 
 		// Saves json data:
 		words = data;

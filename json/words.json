@@ -888,6 +888,81 @@
 		"word": "Innocuous",
 		"meaning": "Harmless",
 		"phrase": "It was an innocuous question"
+	},
+	{
+		"word": "somber",
+		"meaning": "dark, gloomy",
+		"phrase": "The night skies were somber and starless"
+	},
+	{
+		"word": "philander",
+		"meaning": "frequently enter in casual sex, womanize, have affairs",
+		"phrase": "Married men who philander"
+	},
+	{
+		"word": "puckish",
+		"meaning": "inclined to do slightly naughty things for fun, causing trouble in a playful way",
+		"phrase": "a puckish sense of humor"
+	},
+	{
+		"word": "mischievous",
+		"meaning": ["inclined to do slightly naughty things for fun, causing trouble in a playful way", "Malicious, intended to cause harm"],
+		"phrase": ["Two mischievous kittens had decorated the bed with shredded newspaper", "A mischievous allegation meant to destroy his reputation"]
+	},
+	{
+		"word": "",
+		"meaning": "inclined to do slightly naughty things for fun, causing trouble in a playful way",
+		"phrase": "he had an impish look about him"
+	},
+	{
+		"word": "wry",
+		"meaning": ["bent or twisted to one side", "playful"],
+		"phrase": ["a wry nose", "a wry wit"]
+	},
+	{
+		"word": "Prolix",
+		"meaning": "using too many words, tediously lenghty",
+		"phrase": "He found the narrative too prolix and discursive"
+	},
+	{
+		"word": "prolific",
+		"meaning": "present in large numbers, plentiful, producing many works",
+		"phrase": "Mahogany was once prolific in the tropical forests"
+	},
+	{
+		"word": "fecund",
+		"meaning": "fertile, fruitful, capable of producing an abundance of offspring",
+		"phrase": "a fecund imagination"
+	},
+	{
+		"word": "profligate",
+		"meaning": ["wasteful in the use or resources", "licentious, dissolute, libertine"],
+		"phrase": "Profligate consumers of energy"
+	},
+	{
+		"word": "licentious",
+		"meaning": "someone unencumbered by morals, promiscuous",
+		"phrase": "the ruler's tyrannical and licentious behavior"
+	},
+	{
+		"word": "Libertine",
+		"meaning": "someone unencumbered by morals",
+		"phrase": "libertines indulging a variety of amorous impulses"
+	},
+	{
+		"word": "encumber",
+		"meaning": "limit, restrict, block of movement",
+		"phrase": "she was encumbered by her heavy skirts"
+	},
+	{
+		"word": "gloss over",
+		"meaning": "cover up, ignore",
+		"phrase": "He could no longer gloss over his failures"
+	},
+	{
+		"word": "dissolution",
+		"meaning": "ending, closing down",
+		"phrase": "The dissolution of parliament"
 	}
 
 ]
