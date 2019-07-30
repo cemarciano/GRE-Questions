@@ -1,0 +1,888 @@
+[
+	{
+		"word": "Stark",
+		"meaning": "total, complete, sheer, absolute",
+		"phrase": ["Came back running in stark terror", "In stark contrast to his later activism, he used to be unintersted in politics when young"]
+	},
+	{
+		"word": "Ascribe",
+		"meaning": "assign, attribute",
+		"phrase": "He ascribed Jane’s short temper to her upset stomach"
+	},
+	{
+		"word": "fastidious",
+		"meaning": "very attentative to and concerned about accuracy and detail",
+		"phrase": ["He chooses his words with fastidious care", "This fastidiousness makes her work a landmark in ethnomusicology"]
+	},
+	{
+		"word": "Bogus",
+		"meaning": "not genuine, fake.",
+		"phrase": ["A bogus insurance claim", "A stream of bogus devices continues to yield occasional patents"]
+	},
+	{
+		"word": "convoluted",
+		"meaning": ["extremely complex and difficult to follow.", "folded, twisted"],
+		"phrase": ["The convoluted narrative encompasses all manner of digressions", "Walnuts come in hard and convoluted shells"]
+	},
+	{
+		"word": "exacting",
+		"meaning": "demanding, hard, challenging.",
+		"phrase": ["Living up to such exacting standards", "Chase was often the subject of exacting analyses by his contemporaries"]
+	},
+	{
+		"word": "involved",
+		"meaning": "difficult to comprehend, complicated.",
+		"phrase": "A long, involved conversation"
+	},
+	{
+		"word": "Stinginess",
+		"meaning": "“mão-de-vaca”, contrary of generous."
+	},
+	{
+		"word": "Stingy",
+		"meaning": "“mão-de-vaca”, contrary of generous."
+	},
+	{
+		"word": "Illiberal",
+		"meaning": "“mão-de-vaca”, contrary of generous."
+	},
+	{
+		"word": "Miserly",
+		"meaning": "“mão-de-vaca”, contrary of generous."
+	},
+	{
+		"word": "Thrift",
+		"meaning": "economy in the use of resources (such as money)"
+	},
+	{
+		"word": "frugal",
+		"meaning": "economy in the use of resources (such as money)"
+	},
+	{
+		"word": "frugality",
+		"meaning": "economy in the use of resources (such as money)"
+	},
+	{
+		"word": "wuthering",
+		"meaning": "characterized by strong winds.",
+		"phrase": "It’s a wuthering day in Provence today"
+	},
+	{
+		"word": "fallow",
+		"meaning": "(agriculture) plowed land but left unsown for a period in order to restore fertility",
+		"phrase": "There are incentives for farmers to let the land lie fallow in order to reduce grain surpluses"
+	},
+	{
+		"word": "plow",
+		"meaning": "arado"
+	},
+	{
+		"word": "inordinate",
+		"meaning": "Disproportionately large, excessive.",
+		"phrase": "A case that had taken up an inordinate amount of time"
+	},
+	{
+		"word": "stem",
+		"meaning": ["(noun) a long, thin supportive or main section of something.", "(verb) originate in."],
+		"phrase": ["The main stem of the wing feathers", "Stem cells can become almost any type of cell in the body", "Many of the universities’ problems stem from rapid expansion"]
+	},
+	{
+		"word": "accede",
+		"meaning": "assent or agree to a demand or request",
+		"phrase": "The authorities did not accede to the strikers’ demands"
+	},
+	{
+		"word": "morose",
+		"meaning": "ill-tempered, irritable, grumpy, moody"
+	},
+	{
+		"word": "prosaic",
+		"meaning": ["lacking poetic beauty", "commonplace, unromantic, ordinary"],
+		"phrase": "The masses were too preoccupied by prosaic day-to-day concerns"
+	},
+	{
+		"word": "hackneyed",
+		"meaning": "(of a phrase or an idea) lacking significance for having been overused",
+		"phrase": "Hackneyed old sayings"
+	},
+	{
+		"word": "trite",
+		"meaning": "(of a phrase or an idea) lacking significance for having been overused",
+		"phrase": "This point may now seem obvious and trite"
+	},
+	{
+		"word": "belie",
+		"meaning": ["(verb) hide, conceal, create a false idea", "(verb) deny, contradict"],
+		"phrase": ["His youthful face belies his 80 years", "The facts of the situation belie his testimony"]
+	},
+	{
+		"word": "personable",
+		"meaning": "having a pleasant appearance and manner",
+		"phrase": "He was so personable and well-spoken"
+	},
+	{
+		"word": "ersatz",
+		"meaning": "artificial, imitation",
+		"phrase": "The health food company sells ersatz meat products for vegetarians"
+	},
+	{
+		"word": "nugatory",
+		"meaning": "of no value, useless, futile",
+		"phrase": "A nugatory and pointless observation"
+	},
+	{
+		"word": "mendacious",
+		"meaning": "lying, not telling the truth",
+		"phrase": "Mendacious propaganda"
+	},
+	{
+		"word": "munificent",
+		"meaning": "very generous",
+		"phrase": "A munificent gesture"
+	},
+	{
+		"word": "Solipsistic",
+		"meaning": "characterized by solipsism, extreme egocentricity, selfish",
+		"phrase": "We solipsistically forget that we are in fact speaking to someone else"
+	},
+	{
+		"word": "sophomoric",
+		"meaning": "juvenile, relating to young people",
+		"phrase": "Sophomoric double entendres"
+	},
+	{
+		"word": "arresting",
+		"meaning": "striking",
+		"phrase": "At 6 feet 6 inches, he was an arresting figure"
+	},
+	{
+		"word": "unwarranted",
+		"meaning": "not justified, no foundation",
+		"phrase": "I’m sure your fears are unwarranted"
+	},
+	{
+		"word": "undue",
+		"meaning": "excessive",
+		"phrase": "This would help the families to survive the drought without undue suffering"
+	},
+	{
+		"word": "drought",
+		"meaning": "prolonged period of low rainfall, leading to shortage of water"
+	},
+	{
+		"word": "purport",
+		"meaning": "(verb) falsely appear or claim to do something, falsely portray",
+		"phrase": "She is not the person she purports to be"
+	},
+	{
+		"word": "hoi-polloi",
+		"meaning": "rude and snob way to refer to the “masses”, to ordinary people",
+		"phrase": "Monstrously inflated costs are designed to keep the hoi-polloi at bay"
+	},
+	{
+		"word": "baser",
+		"meaning": "básico"
+	},
+	{
+		"word": "cabal",
+		"meaning": "small and secret political faction",
+		"phrase": "He was assassinated by a cabal of aides within his own regime"
+	},
+	{
+		"word": "aide",
+		"meaning": "assistant to an important person, especially a political leader",
+		"phrase": "A presidential aide"
+	},
+	{
+		"word": "literati",
+		"meaning": "well-educated people who are interested in literature"
+	},
+	{
+		"word": "parochial",
+		"meaning": "having limited or narrow scope",
+		"phrase": "This worldview seems incredibly naive and parochial"
+	},
+	{
+		"word": "facile",
+		"meaning": ["superficial, simplistic", "(in sports) easily achieved, effortless"],
+		"phrase": ["A man of facile and shallow intellect", "A facile victory"]
+	},
+	{
+		"word": "suave",
+		"meaning": "sophisticated, urbane"
+	},
+	{
+		"word": "urbane",
+		"meaning": "sophisticated, suave"
+	},
+	{
+		"word": "Painstaking",
+		"meaning": "done with or employing great care and thoroughness, careful, meticulous, fastidious.",
+		"phrase": "Painstaking attention to detail"
+	},
+	{
+		"word": "ape",
+		"meaning": ["mimic, copy", "(animal) monkey"]
+	},
+	{
+		"word": "shabby",
+		"meaning": "mediocre or of poor quality",
+		"phrase": "Not too shabby. Your job was well done."
+	},
+	{
+		"word": "ponderous",
+		"meaning": ["slow and awkward because of being very heavy or large", "(book, speech, style of writing or speaking) boring because it is too slow, long, or serious"],
+		"phrase": ["He had a slow and ponderous movement", "The ponderous reporting style makes the evening news dull viewing"]
+	},
+	{
+		"word": "deify",
+		"meaning": "worship or treat someone as a god",
+		"phrase": "She was deified by the early Romans as a fertility goddess"
+	},
+	{
+		"word": "lionize",
+		"meaning": "praise, exalt",
+		"phrase": "Modern athletes are lionized"
+	},
+	{
+		"word": "impecunious",
+		"meaning": "having little or no money",
+		"phrase": "A titled but impecunious family"
+	},
+	{
+		"word": "catalyst",
+		"meaning": "a person or thing that is the cause of an important change",
+		"phrase": "The new development will act as a catalyst for growth in business and tourism"
+	},
+	{
+		"word": "seam",
+		"meaning": "a line along which two pieces of fabric are sewn together, a joint, “costura”",
+		"phrase": "There’s a tear in my tights but I’m not gonna throw them out because of one little seam!"
+	},
+	{
+		"word": "excise",
+		"meaning": "cut out",
+		"phrase": "The clauses were excised from the treaty"
+	},
+	{
+		"word": "yearning",
+		"meaning": "longing, desire",
+		"phrase": "He felt a yearning for the mountains"
+	},
+	{
+		"word": "quaint",
+		"meaning": "attractively old-fashioned",
+		"phrase": "He had a yearning for the simple and quaint charms of his rural home"
+	},
+	{
+		"word": "alluring",
+		"meaning": "seductive, fascinating",
+		"phrase": "The town offers alluring shops and restaurants"
+	},
+	{
+		"word": "Lascivious",
+		"meaning": "expressing strong sexual desire",
+		"phrase": "He gave her a lascivious wink"
+	},
+	{
+		"word": "prurient",
+		"meaning": "appealing to desire, especially sexually",
+		"phrase": "a book that appealed to the prurient curiosity of its readers"
+	},
+	{
+		"word": "overt",
+		"meaning": "open",
+		"phrase": "An overt act of aggression"
+	},
+	{
+		"word": "posit",
+		"meaning": "assume as a fact",
+		"phrase": "A survey from 1986 posited that the possibility of online banking was impossible"
+	},
+	{
+		"word": "prescient",
+		"meaning": "“pré-ciente”, having knowledge of facts before they take place, prophetic",
+		"phrase": "A prescient warning"
+	},
+	{
+		"word": "preternatural",
+		"meaning": "unusual, beyond what is normal or natural",
+		"phrase": "Autumn had arrived with preternatural speed"
+	},
+	{
+		"word": "uncanny",
+		"meaning": "strange, mysterious, eerie",
+		"phrase": "An uncanny feeling that she was being watched"
+	},
+	{
+		"word": "preordain",
+		"meaning": "decide or determine an outcome beforehand",
+		"phrase": "He believes that everything we do is preordained"
+	},
+	{
+		"word": "pithy",
+		"meaning": "concise",
+		"phrase": "a pithy remark"
+	},
+	{
+		"word": "concise",
+		"meaning": "giving a lot of information clearly and in a few words, succint",
+		"phrase": "A concise account of the country’s history"
+	},
+	{
+		"word": "Indemnify",
+		"meaning": "reimburse, compensate for loss",
+		"phrase": "Insurance is used to indemnify the owner in the event of a loss"
+	},
+	{
+		"word": "taxing",
+		"meaning": "exacting, demanding",
+		"phrase": "They find the work too taxing"
+	},
+	{
+		"word": "musing",
+		"meaning": "a period of reflection or thought",
+		"phrase": "His musings were interrupted by the sound of the telephone"
+	},
+	{
+		"word": "forthright",
+		"meaning": "(person or manner of speech) direct and outspoken, straightforward, honest",
+		"phrase": "His most forthright attack yet on the reforms"
+	},
+	{
+		"word": "acerbic",
+		"meaning": "showing criticism in a way that is clever and funny but also cruel",
+		"phrase": "his acerbic wit"
+	},
+	{
+		"word": "wit",
+		"meaning": ["intelligence", "Quick and inventive verbal humor"],
+		"phrase": ["He does not lack perception or native wit", "A player with a sharp tongue and a quick wit"]
+	},
+	{
+		"word": "witty",
+		"meaning": ["intelligence", "Quick and inventive verbal humor"],
+		"phrase": ["He does not lack perception or native wit", "A player with a sharp tongue and a quick wit"]
+	},
+	{
+		"word": "Doyenne",
+		"meaning": "a woman who is the most respected or prominent person in a particular field",
+		"phrase": "She’s the doyenne of daytime TV"
+	},
+	{
+		"word": "prominent",
+		"meaning": "important, famous"
+	},
+	{
+		"word": "hysteria",
+		"meaning": "exaggerated or uncontrollable emotion or excitement, especially among a group of people",
+		"phrase": "The mass hysteria that characterizes the week before Christmas"
+	},
+	{
+		"word": "slander",
+		"meaning": "(of a spoken statement) defamatory, false",
+		"phrase": "Slanderous allegations"
+	},
+	{
+		"word": "slanderous",
+		"meaning": "(of a spoken statement) defamatory, false",
+		"phrase": "Slanderous allegations"
+	},
+	{
+		"word": "slender",
+		"meaning": "(of a person or part of the body) gracefully thin",
+		"phrase": "Her slender neck"
+	},
+	{
+		"word": "Lackadaisical",
+		"meaning": "lacking determination, lazy",
+		"phrase": "A lackadaisical defense left the Spurs adrift in the second half of the game"
+	},
+	{
+		"word": "Vicissitude",
+		"meaning": "unwelcome change of fortune, opposite of serendipity",
+		"phrase": "Losing your job is just one of the vicissitudes of life"
+	},
+	{
+		"word": "whitewash",
+		"meaning": "cover up mistakes or facts to clear one’s name",
+		"phrase": "His wife must have wanted to whitewash his reputation"
+	},
+	{
+		"word": "improvident",
+		"meaning": "spendthrift, thriftless, contrary of provident"
+	},
+	{
+		"word": "lax",
+		"meaning": "not strict, relaxed",
+		"phrase": "Lax security arrangements at the airport"
+	},
+	{
+		"word": "dissolute",
+		"meaning": "bad character, immoral",
+		"phrase": "A dissolute, drunken, disreputable rogue"
+	},
+	{
+		"word": "Witticism",
+		"meaning": "a witty remark, a joke",
+		"phrase": "Maurice roared with laughter at his own witticisms"
+	},
+	{
+		"word": "riposte",
+		"meaning": "a quick, clever reply to an insult or criticism",
+		"phrase": "“I'd have made lamb chops had I known you're a vegetarian”, Kris riposted"
+	},
+	{
+		"word": "aghast",
+		"meaning": "filled with horror or shock",
+		"phrase": "When the news came out they were aghast"
+	},
+	{
+		"word": "inimical",
+		"meaning": "harmful, injurious",
+		"phrase": "Actions inimical to our interests"
+	},
+	{
+		"word": "pallid",
+		"meaning": "pale"
+	},
+	{
+		"word": "preposterous",
+		"meaning": "absurd, ridiculous",
+		"phrase": "A preposterous suggestion"
+	},
+	{
+		"word": "Presumptuous",
+		"meaning": "crossing boundaries, failing to observe limits",
+		"phrase": "I hope I won't be considered presumptuous if I offer some advice"
+	},
+	{
+		"word": "unravel",
+		"meaning": ["untangle, “desemaranhar”", "Investigate and solve, reveal"],
+		"phrase": ["He cut the rope and started to unravel its strands", "They were attempting to unravel the cause of death"]
+	},
+	{
+		"word": "court",
+		"meaning": ["(verb) seek", "a tribunal presided over by a judge"],
+		"phrase": "He never had to court the approval of the political elite"
+	},
+	{
+		"word": "austere",
+		"meaning": "strict, severe",
+		"phrase": "An austere man, with a rigidly puritanical outlook"
+	},
+	{
+		"word": "puritanical",
+		"meaning": "regarding strict religious or moral behavior",
+		"phrase": "His puritanical parents saw any kind of pleasure as the road to damnation"
+	},
+	{
+		"word": "outlook",
+		"meaning": ["Point of view", "view"],
+		"phrase": ["Broaden your outlook on life", "The pleasant outlook from the lodge window"]
+	},
+	{
+		"word": "rugged",
+		"meaning": ["(ground or terrain) having a broken, rocky, uneven surface", "Demanding, exacting, tough"],
+		"phrase": ["A rugged coastline", "A week of rugged, demanding adventure at an outdoor training center"]
+	},
+	{
+		"word": "contempt",
+		"meaning": "“desprezo”",
+		"phrase": "He showed his contempt for his job by doing it very badly"
+	},
+	{
+		"word": "derision",
+		"meaning": "mockery, “escárnio”",
+		"phrase": "My stories were greeted with derision and disbelief"
+	},
+	{
+		"word": "scornful",
+		"meaning": "Expressing contempt or derision",
+		"phrase": "Scornful laughter"
+	},
+	{
+		"word": "irksome",
+		"meaning": "irritating, annoying, vexing, tiresome",
+		"phrase": "Their victory was irksome to their rivals, who got very mad"
+	},
+	{
+		"word": "recondite",
+		"meaning": "little known, abstruse, arcane, esoteric, difficult to comprehend, hidden",
+		"phrase": "The book is full of recondite information"
+	},
+	{
+		"word": "abstruse",
+		"meaning": "difficult to understand, involved"
+	},
+	{
+		"word": "involute",
+		"meaning": "difficult to understand, involved"
+	},
+	{
+		"word": "obscure",
+		"meaning": "unknown, hidden"
+	},
+	{
+		"word": "sensitize",
+		"meaning": "make sensitive, respond to stimuli",
+		"phrase": "The introductory section aims to sensitize students to the methodology of the course"
+	},
+	{
+		"word": "morbid",
+		"meaning": ["macabre, grotesque", "(medicine) Indicative of a disease"],
+		"phrase": ["he had long held a morbid fascination with the horrors of contemporary warfare", "Treating a morbid obesity"]
+	},
+	{
+		"word": "daunting",
+		"meaning": "seemingly difficult"
+	},
+	{
+		"word": "feckless",
+		"meaning": "irresponsible, incompetent, inefficient",
+		"phrase": "The media portrays the governor as the epitome of fecklessness"
+	},
+	{
+		"word": "Punctilious",
+		"meaning": "great attention to detail, dedicated, painstaking, avoid do wrong"
+	},
+	{
+		"word": "scrupulous",
+		"meaning": "great attention to detail, dedicated, painstaking, avoid do wrong"
+	},
+	{
+		"word": "diligent",
+		"meaning": "great attention to detail, dedicated, painstaking, avoid do wrong"
+	},
+	{
+		"word": "Penitent",
+		"meaning": "feeling regret or sorrow for having done wrong"
+	},
+	{
+		"word": "contrite",
+		"meaning": "feeling regret or sorrow for having done wrong"
+	},
+	{
+		"word": "repentant",
+		"meaning": "feeling regret or sorrow for having done wrong"
+	},
+	{
+		"word": "tepid",
+		"meaning": ["showing little enthusiasm", "(of a liquid) slightly warm"],
+		"phrase": ["The applause was tepid", "She soaked a flannel in the tepid water"]
+	},
+	{
+		"word": "clangorous",
+		"meaning": "loud, noisy",
+		"phrase": "Harsh, clangorous percussion"
+	},
+	{
+		"word": "seep",
+		"meaning": "flow",
+		"phrase": "Water began to seep through the soles of his boots"
+	},
+	{
+		"word": "indictment",
+		"meaning": "a formal charge, accusation"
+	},
+	{
+		"word": "Arraign",
+		"meaning": "criticize, censure, castigate, reprimand"
+	},
+	{
+		"word": "lambaste",
+		"meaning": "criticize, censure, castigate, reprimand"
+	},
+	{
+		"word": "admonish",
+		"meaning": "criticize, censure, castigate, reprimand"
+	},
+	{
+		"word": "scold",
+		"meaning": "criticize, censure, castigate, reprimand"
+	},
+	{
+		"word": "berate",
+		"meaning": "criticize, censure, castigate, reprimand"
+	},
+	{
+		"word": "rebuke",
+		"meaning": "criticize, censure, castigate, reprimand"
+	},
+	{
+		"word": "dissemble",
+		"meaning": "dissimulate, conceal one’s true motives or beliefs, pretend",
+		"phrase": "An honest, sincere person with no need to dissemble"
+	},
+	{
+		"word": "fleeting",
+		"meaning": "lasting for a very short time",
+		"phrase": "Hoping to get a fleeting glimpse of a whale underwater"
+	},
+	{
+		"word": "untapped",
+		"meaning": "not yet explored or used",
+		"phrase": "The vast untapped potential of individual women and men"
+	},
+	{
+		"word": "tacit",
+		"meaning": "implicit, understood without being stated",
+		"phrase": "Your silence may be taken to mean tacit agreement"
+	},
+	{
+		"word": "Trifling",
+		"meaning": "insignificant, unimportant",
+		"phrase": "A trifling sum"
+	},
+	{
+		"word": "trifle",
+		"meaning": "insignificant, unimportant",
+		"phrase": "A trifling sum"
+	},
+	{
+		"word": "petty",
+		"meaning": "insignificant, unimportant",
+		"phrase": "A petty sum"
+	},
+	{
+		"word": "penchant",
+		"meaning": "Liking, inclination, a strong habitual liking for something",
+		"phrase": ["He has a penchant for champagne", "He has a penchant for adopting stray dogs"]
+	},
+	{
+		"word": "stray",
+		"meaning": "move away, wander off, not in the right place, separated from the group",
+		"phrase": "He pushed a few stray hairs from her face"
+	},
+	{
+		"word": "extant",
+		"meaning": "(of a document) still in existence, surviving",
+		"phrase": "The original manuscript is no longer extant"
+	},
+	{
+		"word": "haggle",
+		"meaning": "dispute or bargain persistently, especially over the cost of something",
+		"phrase": "He hated to haggle over prices"
+	},
+	{
+		"word": "pantry",
+		"meaning": "“despensa”, a small room or closet in which food, dishes and utensils are kept"
+	},
+	{
+		"word": "wallow",
+		"meaning": "“se mergulhar”, to stay in that state without trying to change.",
+		"phrase": "He was not a fellow to shed tears, or wallow in self-pity"
+	},
+	{
+		"word": "dissent",
+		"meaning": "disagreement, contrary of “consent”",
+		"phrase": "Two members dissented from the majority"
+	},
+	{
+		"word": "whimsical",
+		"meaning": ["fanciful, quixotic, imaginative", "actions that change suddenly, volatile"],
+		"phrase": ["The songs have a whimsical charm", "Unfortunately, his decisions are often whimsical"]
+	},
+	{
+		"word": "peddle",
+		"meaning": "try to sell (usually by going from house to house or place to place)",
+		"phrase": "He criticized his fellow candidate for peddling risky ideas"
+	},
+	{
+		"word": "steward",
+		"meaning": "manager",
+		"phrase": "The steward of their investments"
+	},
+	{
+		"word": "husband",
+		"meaning": ["a married man", "(verb) use resources economically, conserve"],
+		"phrase": "The need to husband his remaining strength"
+	},
+	{
+		"word": "upend",
+		"meaning": "overturn, set or turn something on its end or upside down",
+		"phrase": "Kitty upended her purse, dumping out all her money"
+	},
+	{
+		"word": "overturn",
+		"meaning": ["tip something over so that it is on its side or upside down", "abolish, invalidate, rescind"],
+		"phrase": ["The crowd proceeded to overturn cars and set them on fire", "The results overturned previous findings"]
+	},
+	{
+		"word": "procure",
+		"meaning": "to obtain something, especially after some effort",
+		"phrase": "She's managed somehow to procure his phone number"
+	},
+	{
+		"word": "galley",
+		"meaning": ["the kitchen of a ship or airplane", "a pre-print of a text, before it is published"]
+	},
+	{
+		"word": "fickle",
+		"meaning": "volatile, capricious, changing frequently, whimsical"
+	},
+	{
+		"word": "capricious",
+		"meaning": "volatile, fickle, changing frequently, whimsical"
+	},
+	{
+		"word": "seasoned",
+		"meaning": ["experienced", "(food) having had spices or herbs added"],
+		"phrase": "She is a seasoned traveler"
+	},
+	{
+		"word": "Torpid",
+		"meaning": "mentally or physically inactive, slow, lacking energy"
+	},
+	{
+		"word": "lethargic",
+		"meaning": "mentally or physically inactive, slow, lacking energy"
+	},
+	{
+		"word": "sluggish",
+		"meaning": "mentally or physically inactive, slow, lacking energy"
+	},
+	{
+		"word": "lithe",
+		"meaning": "thin, flexible and graceful, lissome",
+		"phrase": "She lay gazing up at his tall, lithe figure"
+	},
+	{
+		"word": "lissome",
+		"meaning": "thin, flexible and graceful, lithe",
+		"phrase": "The kind of outfit that should be left to lissome teenagers"
+	},
+	{
+		"word": "supple",
+		"meaning": "bending or moving easily and gracefully, flexible",
+		"phrase": "Her supple fingers"
+	},
+	{
+		"word": "paean",
+		"meaning": "praise, panegyric"
+	},
+	{
+		"word": "panegyric",
+		"meaning": "praise, paean"
+	},
+	{
+		"word": "tirade",
+		"meaning": "long and angry speech of criticism or accusation, denunciation"
+	},
+	{
+		"word": "diatribe",
+		"meaning": "long and angry speech of criticism or accusation, denunciation"
+	},
+	{
+		"word": "polemic",
+		"meaning": "long and angry speech of criticism or accusation, denunciation"
+	},
+	{
+		"word": "flagging",
+		"meaning": "lacking strength, tired",
+		"phrase": "She wants to revive her flagging career"
+	},
+	{
+		"word": "Enervated",
+		"meaning": "tired, weary"
+	},
+	{
+		"word": "weary",
+		"meaning": "tired, enervated"
+	},
+	{
+		"word": "hale",
+		"meaning": "healthy"
+	},
+	{
+		"word": "Loathsome",
+		"meaning": "repulsive, causing hatred",
+		"phrase": "A loathsome disease"
+	},
+	{
+		"word": "paucity",
+		"meaning": "scarcity, presence of something in small or insuficient amounts, dearth",
+		"phrase": "A paucity of information"
+	},
+	{
+		"word": "dearth",
+		"meaning": "scarcity, presence of something in small or insuficient amounts, paucity",
+		"phrase": "there is a dearth of evidence"
+	},
+	{
+		"word": "medley",
+		"meaning": "a diverse assortment or mixture, a mélange",
+		"phrase": "He was arrested on a medley of charges"
+	},
+	{
+		"word": "blunt",
+		"meaning": ["Straight to the point", "Having an edge that is not sharp"],
+		"phrase": ["She tends to be blunt", "Scissors with blunt ends"]
+	},
+	{
+		"word": "bald",
+		"meaning": "plain, blunt",
+		"phrase": "The bald statement in the preceding paragraph requires amplification"
+	},
+	{
+		"word": "pedant",
+		"meaning": "Too concerned with small and unimportant details or traditional rules"
+	},
+	{
+		"word": "priggish",
+		"meaning": "convinced of one’s own certainty or superiority, especially when unfounded, moralistic, self-righteous",
+		"phrase": "A priggish little pedant"
+	},
+	{
+		"word": "self-righteous",
+		"meaning": "convinced of one’s own certainty or superiority, especially when unfounded, moralistic, priggish",
+		"phrase": "A self-righteous little pedant"
+	},
+	{
+		"word": "Auspicious",
+		"meaning": "leading to success, favorable, propitious",
+		"phrase": "It was not the most auspicious moment to hold an election"
+	},
+	{
+		"word": "impious",
+		"meaning": "irreverent"
+	},
+	{
+		"word": "tout",
+		"meaning": ["sell, promote", "solicit"],
+		"phrase": ["The media is touting gays and lesbians", "Not meant to tout you off the movie"]
+	},
+	{
+		"word": "subvert",
+		"meaning": "undermine the power and authority of an established system",
+		"phrase": "An attempt to subvert democratc government"
+	},
+	{
+		"word": "scrutinize",
+		"meaning": "examine or inspect closely and thoroughly",
+		"phrase": "Customers were warned to scrutinize the small print"
+	},
+	{
+		"word": "contention",
+		"meaning": "disagreement, dispute, argument",
+		"phrase": "American political contentions"
+	},
+	{
+		"word": "partisan",
+		"meaning": "one who takes sides, supporter",
+		"phrase": "Newspapers have become increasingly partisan"
+	},
+	{
+		"word": "voluble",
+		"meaning": "excessively talkative"
+	},
+	{
+		"word": "garrulous",
+		"meaning": "excessively talkative"
+	},
+	{
+		"word": "loquacious",
+		"meaning": "excessively talkative"
+	}
+
+]

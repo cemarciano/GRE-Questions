@@ -1,0 +1,55 @@
+@font-face {
+    font-family: "Simonetta";
+    src: url('fonts/Simonetta-Black.ttf');
+}
+
+@font-face {
+	font-family: "Trebuchet MS";
+	src: url('fonts/Trebuchet-MS.ttf');
+}
+
+@font-face {
+	font-family: "Gill Sans";
+	src: url('fonts/GillSansStd.otf');
+}
+
+
+body {
+  background: #eef1f3;
+  user-select: none;
+}
+
+.wrapper {
+	text-align:center;
+}
+
+h1, h2, h3 {
+	font-family: "Gill Sans";
+	display: block;
+	animation: fadein 0.3s;
+}
+
+h1 {
+	font-size: calc(4vw + 4vh);
+}
+
+h2 {
+	font-size: calc(1.3vw + 1.8vh);
+}
+
+h3 {
+	font-size: calc(0.9vw + 1vh);
+}
+
+.center {
+	position: absolute;
+	left: 50%;
+	top: 45%;
+	-webkit-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+}
+
+@keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
