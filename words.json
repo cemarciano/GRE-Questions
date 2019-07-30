@@ -849,7 +849,7 @@
 	},
 	{
 		"word": "tout",
-		"meaning": ["sell, promote", "solicit"],
+		"meaning": "Advertise or praise, encouraging its use or sale",
 		"phrase": ["The media is touting gays and lesbians", "Not meant to tout you off the movie"]
 	},
 	{
@@ -883,6 +883,11 @@
 	{
 		"word": "loquacious",
 		"meaning": "excessively talkative"
+	},
+	{
+		"word": "Innocuous",
+		"meaning": "Harmless",
+		"phrase": "It was an innocuous question"
 	}
 
 ]
