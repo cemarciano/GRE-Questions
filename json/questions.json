@@ -21,7 +21,7 @@
 			{"name": "Variables-in-the-Choices Problems", "completed": 0, "total": 20},
 			{"name": "Ratios", "completed": 20, "total": 36, "wrong": [2,16,18]},
 			{"name": "Averages, Weighted Averages, Median, and Mode", "completed": 15, "total": 37, "wrong": [8,15]},
-			{"name": "Standard Deviation and Normal Distribution", "completed": 3, "total": 31},
+			{"name": "Standard Deviation and Normal Distribution", "completed": 15, "total": 31, "wrong": [12], "interesting": [9,10,11,14]},
 			{"name": "Probability, Combinatoric, and Overlapping Sets", "completed": 23, "total": 46, "wrong": [9]},
 			{"name": "Data Interpretation", "completed": 0, "total": 49},
 			{"name": "Polygons and Rectangular Solids", "completed": 0, "total": 22},
