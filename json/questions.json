@@ -9,7 +9,7 @@
 			{"name": "Arithmetic", "completed": 20, "total": 28, "wrong": [10]},
 			{"name": "Algebra", "completed": 0, "total": 35},
 			{"name": "Inequalities and Absolute Values", "completed": 0, "total": 41},
-			{"name": "Functions, Formulas and Sequences", "completed": 0, "total": 57},
+			{"name": "Functions, Formulas and Sequences", "completed": 20, "total": 57},
 			{"name": "Fractions and Decimals", "completed": 0, "total": 38},
 			{"name": "Percents", "completed": 0, "total": 54},
 			{"name": "Divisibility and Primes", "completed": 3, "total": 33, "wrong": [2,3]},
