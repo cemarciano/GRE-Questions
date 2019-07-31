@@ -2,7 +2,7 @@
 	{
 		"title": "GRE Manhattan 5lb. Book",
 		"sections": [
-            {"name": "Text Completions", "completed": 15, "total": 144, "wrong": [3,11,12,15]},
+            {"name": "Text Completions", "completed": 30, "total": 144, "wrong": [3,11,12,15,20,21,23,25,27,29]},
 			{"name": "Sentence Equivalence", "completed": 15, "total": 147, "wrong": [1,2,3,7,8,9,11,12,14]},
 			{"name": "Reading Comprehension", "completed": 0, "total": 170},
 			{"name": "Logic-Based Reading Comprehension", "completed": 0, "total": 58},
