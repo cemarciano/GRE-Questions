@@ -231,7 +231,7 @@
 	},
 	{
 		"word": "ponderous",
-		"meaning": ["slow and awkward because of being very heavy or large", "(book, speech, style of writing or speaking) boring because it is too slow, long, or serious"],
+		"meaning": ["slow, usually because of being very heavy or large, cumbersome", "(book, speech, style of writing or speaking) boring because it is too slow, long, or serious"],
 		"phrase": ["He had a slow and ponderous movement", "The ponderous reporting style makes the evening news dull viewing"]
 	},
 	{
@@ -963,6 +963,296 @@
 		"word": "dissolution",
 		"meaning": "ending, closing down",
 		"phrase": "The dissolution of parliament"
+	},
+	{
+		"word": "Grandiloquent",
+		"meaning": "someone who uses very formal, literary, or exaggerated language because they want to seem more important, pompous",
+		"phrase": "She attacked her colleagues for indulging in “grandiose and grandiloquent language”"
+	},
+	{
+		"word": "pompous",
+		"meaning": ["someone who uses very formal, literary, or exaggerated language because they want to seem more important, grandiloquent", "grand and elaborate, splendor"],
+		"phrase": ["He was somewhat pompous and had a high opinion of his own capabilities", "The service was grand without being pompous"]
+	},
+	{
+		"word": "Warily",
+		"meaning": ["cautiously, carefully", "suspiciously"],
+		"phrase": ["She looked at him warily", "They walk warily down the street, terrified of being caught"]
+	},
+	{
+		"word": "roundly",
+		"meaning": "totally, “redondamente”",
+		"phrase": "The latest attacks have been roundly condemned by campaigners for peace"
+	},
+	{
+		"word": "laud",
+		"meaning": "praise, admire",
+		"phrase": "The obituary lauded him as a great statesman and soldier"
+	},
+	{
+		"word": "pan",
+		"meaning": "criticize severely, especially movies",
+		"phrase": "The movie was panned by the critics"
+	},
+	{
+		"word": "Insouciance",
+		"meaning": "indifference",
+		"phrase": "An insouciant shrug"
+	},
+	{
+		"word": "shrug",
+		"meaning": "raise one’s shoulders to express doubt, ignorance, or indifference"
+	},
+	{
+		"word": "listless",
+		"meaning": "lacking energy or enthusiasm, lethargic, enervated",
+		"phrase": "Bouts of listless depression"
+	},
+	{
+		"word": "bout",
+		"meaning": "a short period where a specific activity happens intensely",
+		"phrase": "Bouts of listless depression"
+	},
+	{
+		"word": "panting",
+		"meaning": "breathing with short, quick breaths, out of breath",
+		"phrase": ["A panting dog", "She was panting with the exertion"]
+	},
+	{
+		"word": "exertion",
+		"meaning": ["physical or mental effort", "the application of a force, influence, or authority"],
+		"phrase": ["She was panting with the exertion", "The exertion of authority"]
+	},
+	{
+		"word": "Strenuous",
+		"meaning": "requiring great exertion, great effort, difficult, arduous, taxing, demanding",
+		"phrase": "All your muscles need more oxygen during strenuous exercise"
+	},
+	{
+		"word": "catharsis",
+		"meaning": "providing release and relief from strong or repressed emotions, purging, cleansing",
+		"phrase": "Music is a means of catharsis for them"
+	},
+	{
+		"word": "coda",
+		"meaning": "conclusion",
+		"phrase": "The movie's coda shows the main character as an adult 25 years later"
+	},
+	{
+		"word": "homily",
+		"meaning": "a tedious moralizing discourse, sermon, lecture (often religious)",
+		"phrase": "She delivered her homily about the need for patience"
+	},
+	{
+		"word": "discourse",
+		"meaning": "discuss",
+		"phrase": "She could discourse at great length on the history of Europe"
+	},
+	{
+		"word": "ominous",
+		"meaning": "giving the impression that something bad is going to happen, menacing",
+		"phrase": "There were ominous dark clouds gathering overhead"
+	},
+	{
+		"word": "Anachronism",
+		"meaning": "more suitable for an earlier time, something that existed out of its time in history",
+		"phrase": ["For some people, marriage is an anachronism from the days when women needed to be protected", "He described the law as anachronistic and ridiculous"]
+	},
+	{
+		"word": "providential",
+		"meaning": "occuring at a favorable time, opportune",
+		"phrase": "Thanks to that providential snowstorm, the attack had been repulsed"
+	},
+	{
+		"word": "shrewd",
+		"meaning": "astute, clever, understand and judge a situation quickly and use it in one’s own advantage",
+		"phrase": "She was shrewd enough to guess the motive behind his gesture"
+	},
+	{
+		"word": "simpatico",
+		"meaning": ["likable", "like-minded, having shared interests or qualities"],
+		"phrase": ["A highly simpatico figure", "Andrea Sand's group of older mothers are simpatico because of their common age and experience"]
+	},
+	{
+		"word": "inure",
+		"meaning": "(verb) accustom to something, especially something unpleasant",
+		"phrase": "These children have been inured to violence"
+	},
+	{
+		"word": "exempt",
+		"meaning": "free a person from an obligation",
+		"phrase": "They were exempted from paying the tax"
+	},
+	{
+		"word": "effusive",
+		"meaning": "expressing gratitude, pleasure or approval with a lot of emotion, heartfelt",
+		"phrase": "They gave us such an effusive welcome it was quite embarrassing"
+	},
+	{
+		"word": "maudlin",
+		"meaning": "tearfully sentimental, expressing strong feelings (often through drunkness)",
+		"phrase": "The drink made her maudlin"
+	},
+	{
+		"word": "fractured",
+		"meaning": "broken",
+		"phrase": "They'd misinterpreted his fractured English"
+	},
+	{
+		"word": "syncopate",
+		"meaning": "abbreviate",
+		"phrase": "syncopate “suppose” to “s'pose”"
+	},
+	{
+		"word": "coalesce",
+		"meaning": "to cause to unite, to join forces",
+		"phrase": ["The edges of the wound coalesced", "Separate townships have coalesced into a single, sprawling colony"]
+	},
+	{
+		"word": "amortize",
+		"meaning": "reduce or pay off a debt",
+		"phrase": "Loan fees can be amortized over the life of the mortgage"
+	},
+	{
+		"word": "hardy",
+		"meaning": "strong, resilient",
+		"phrase": "Strawberries are hardy and easy to grow"
+	},
+	{
+		"word": "trying",
+		"meaning": "hard to endure, difficult",
+		"phrase": "It had been a very trying day"
+	},
+	{
+		"word": "demeaning",
+		"meaning": "Causing someone to lose their dignity",
+		"phrase": "The poster was not demeaning to women"
+	},
+	{
+		"word": "brazen",
+		"meaning": "rudely bold, unrestrained by shame",
+		"phrase": "A brazen disregard for the rules"
+	},
+	{
+		"word": "inveigle",
+		"meaning": "persuade someone to do something when they don’t want to do it, in a clever and dishonest way",
+		"phrase": "Her son tried to inveigle her into giving him the money for a car"
+	},
+	{
+		"word": "Coax",
+		"meaning": "gently persuade someone to do something using kindness or flattery, cajole, wheedle"
+	},
+	{
+		"word": "cajole",
+		"meaning": "gently persuade someone to do something using kindness or flattery, coax, wheedle"
+	},
+	{
+		"word": "wheedle",
+		"meaning": "gently persuade someone to do something using kindness or flattery, coax, cajole"
+	},
+	{
+		"word": "deliberate",
+		"meaning": "intentional, conscious",
+		"phrase": "A deliberate attempt to provoke conflict"
+	},
+	{
+		"word": "bully",
+		"meaning": "to treat someone in a cruel, threatening or aggressive fashion, intimidate, hector",
+		"phrase": "He was bullied into accepting their offer"
+	},
+	{
+		"word": "hector",
+		"meaning": "to treat someone in a cruel, threatening or aggressive fashion, intimidate, bully",
+		"phrase": "Football players being hectored by their coach"
+	},
+	{
+		"word": "defer",
+		"meaning": "postpone, put off to a later time",
+		"phrase": "They deferred the decision until February"
+	},
+	{
+		"word": "adjourn",
+		"meaning": "postpone, put off to a later time",
+		"phrase": "The meeting was adjourned until December 4"
+	},
+	{
+		"word": "presage",
+		"meaning": "a sign or warning that something will happen, “presságio”, foreshadow",
+		"phrase": "The fever was a somber presage of his final illness"
+	},
+	{
+		"word": "foreshadow",
+		"meaning": "a sign or warning that something will happen, “presságio”, presage",
+		"phrase": "The change proposed last month was foreshadowed in the March Budget"
+	},
+	{
+		"word": "deftly",
+		"meaning": "skilfully, “habilmente”",
+		"phrase": ["She deftly avoided answering his question", "Her fingers moved deftly, quickly parting the grass"]
+	},
+	{
+		"word": "abhorrent",
+		"meaning": "causing disgust or loathing, repugnant",
+		"phrase": "Racial discrimination was abhorrent to us all"
+	},
+	{
+		"word": "coltish",
+		"meaning": "awkwardly young and energetic",
+		"phrase": "She was coltish; now she's womanly"
+	},
+	{
+		"word": "cumbersome",
+		"meaning": ["large or heavy and therefore difficult to carry or use", "slow, ponderous"],
+		"phrase": ["Cumbersome diving suits", "Cumbersome administrative procedures"]
+	},
+	{
+		"word": "beguile",
+		"meaning": ["to trick someone into doing something, deceive", "charm or attract, seduce"],
+		"phrase": ["He used his newspapers to beguile the readers into buying shares in his company", "His paintings beguiled the Prince of Wales"]
+	},
+	{
+		"word": "deceive",
+		"meaning": "to trick, to fool, to make someone believe something that is not true",
+		"phrase": "She deceived her father into thinking she was going to school"
+	},
+	{
+		"word": "swindle",
+		"meaning": "to get money dishonestly from someone by tricking them",
+		"phrase": "They swindled local businesses out of thousands of dollars"
+	},
+	{
+		"word": "guile",
+		"meaning": "clever but dishonest talk or behavior used to deceive (fool) someone, chicanery",
+		"phrase": "The president will need to use all her political guile to stay in power"
+	},
+	{
+		"word": "chicanery",
+		"meaning": "clever but dishonest talk or behavior used to deceive (fool) someone, guile",
+		"phrase": "The investigation revealed political chicanery and corruption at the highest levels"
+	},
+	{
+		"word": "cunning",
+		"meaning": "good at tricking other people to get what you want, sly, devious",
+		"phrase": "They were cunningly disguised in golf clothes"
+	},
+	{
+		"word": "sly",
+		"meaning": "good at tricking other people to get what you want, cunning, devious",
+		"phrase": "He's a sly old devil. I wouldn't trust him with my money"
+	},
+	{
+		"word": "devious",
+		"meaning": ["good at tricking other people to get what you want, cunning, sly", "longer and less direct than the most straightforward route"],
+		"phrase": ["he's as devious as a politician needs to be", "they arrived at the town by a devious route"]
+	},
+	{
+		"word": "chary",
+		"meaning": "cautious, suspicious, reluctant of something, wary",
+		"phrase": "Most people are chary of allowing themselves to be photographed"
+	},
+	{
+		"word": "wary",
+		"meaning": "cautious, suspicious, reluctant of something, chary",
+		"phrase": "Dogs that have been mistreated often remain very wary of strangers"
 	}
-
 ]
