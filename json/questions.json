@@ -24,7 +24,7 @@
 			{"name": "Standard Deviation and Normal Distribution", "completed": 15, "total": 31, "wrong": [12], "interesting": [9,10,11,14]},
 			{"name": "Probability, Combinatoric, and Overlapping Sets", "completed": 23, "total": 46, "wrong": [9]},
 			{"name": "Data Interpretation", "completed": 0, "total": 49},
-			{"name": "Polygons and Rectangular Solids", "completed": 0, "total": 22},
+			{"name": "Polygons and Rectangular Solids", "completed": 15, "total": 22, "wrong": [9]},
 			{"name": "Circles and Cylinders", "completed": 0, "total": 25},
 			{"name": "Triangles", "completed": 0, "total": 42},
 			{"name": "Coordinate Geometry", "completed": 24, "total": 24, "wrong": [11,13,14,21,22]},
