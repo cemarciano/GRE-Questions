@@ -181,7 +181,7 @@
 	},
 	{
 		"word": "baser",
-		"meaning": "básico"
+		"meaning": "basic"
 	},
 	{
 		"word": "cabal",
@@ -1254,5 +1254,65 @@
 		"word": "wary",
 		"meaning": "cautious, suspicious, reluctant of something, chary",
 		"phrase": "Dogs that have been mistreated often remain very wary of strangers"
+	},
+	{
+		"word": "toady",
+		"meaning": "a flatterer, someone who behaves obsequiously to someone important, a minion, a lackey, sycophant",
+		"phrase": "she imagined him toadying to his rich clients"
+	},
+	{
+		"word": "Sycophant",
+		"meaning": "a flatterer, someone who behaves obsequiously to someone important, a minion, a lackey, toady"
+	},
+	{
+		"word": "Obsequious",
+		"meaning": "obedient or attentive to a servile degree",
+		"phrase": "She is embarrassingly obsequious to anyone in authority"
+	},
+	{
+		"word": "imperious",
+		"meaning": "arrogant, assuming power or authority",
+		"phrase": ["She sent them away with an imperious wave of the hand", "From across the desk, she gave him a witheringly imperious look"]
+	},
+	{
+		"word": "Withering",
+		"meaning": "intended to make someone feel mortified or humiliated",
+		"phrase": "From across the desk, she gave him a witheringly imperious look"
+	},
+	{
+		"word": "forebear",
+		"meaning": "an ancestor",
+		"phrase": "Generations of his forebears had lived in London"
+	},
+	{
+		"word": "harbinger",
+		"meaning": "something that announces the coming of another, herald",
+		"phrase": "Witch hazels are the harbingers of spring"
+	},
+	{
+		"word": "herald",
+		"meaning": "something that announces the coming of another, harbinger",
+		"phrase": "They considered the first primroses as the herald of spring"
+	},
+	{
+		"word": "rampage",
+		"meaning": "violent and wild behaviour",
+		"phrase": ["Rioters went on a rampage through the city", "Several villages were destroyed by rampaging soldiers"]
+	},
+	{
+		"word": "inform",
+		"meaning": ["give facts or information, tell", "imbue, give form to something"],
+		"phrase": ["He wrote to her, informing her of the situation", "The relationship of the citizen to the state is informed by the democratic ideal"]
+	},
+	{
+		"word": "dampen",
+		"meaning": ["make less strong or intense", "moisten, make slightly wet"],
+		"phrase": ["Nothing could dampen her enthusiasm", "The fine rain dampened her face"]
+	},
+	{
+		"word": "Conspicuous",
+		"meaning": "attracting notice, standing out, visible",
+		"phrase": "He was very thin, with a conspicuous Adam's apple"
 	}
+
 ]
