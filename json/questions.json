@@ -4,7 +4,7 @@
 		"sections": [
             {"name": "Text Completions", "completed": 30, "total": 144, "wrong": [3,11,12,15,20,21,23,25,27,29]},
 			{"name": "Sentence Equivalence", "completed": 15, "total": 147, "wrong": [1,2,3,7,8,9,11,12,14]},
-			{"name": "Reading Comprehension", "completed": 0, "total": 170},
+			{"name": "Reading Comprehension", "completed": 14, "total": 170, "wrong": [5,8,10,11]},
 			{"name": "Logic-Based Reading Comprehension", "completed": 0, "total": 58},
 			{"name": "Arithmetic", "completed": 20, "total": 28, "wrong": [10]},
 			{"name": "Algebra", "completed": 0, "total": 35},
@@ -23,7 +23,7 @@
 			{"name": "Averages, Weighted Averages, Median, and Mode", "completed": 15, "total": 37, "wrong": [8,15]},
 			{"name": "Standard Deviation and Normal Distribution", "completed": 15, "total": 31, "wrong": [12], "interesting": [9,10,11,14]},
 			{"name": "Probability, Combinatoric, and Overlapping Sets", "completed": 23, "total": 46, "wrong": [9]},
-			{"name": "Data Interpretation", "completed": 0, "total": 49},
+			{"name": "Data Interpretation", "completed": 23, "total": 49, "wrong": [15]},
 			{"name": "Polygons and Rectangular Solids", "completed": 15, "total": 22, "wrong": [9]},
 			{"name": "Circles and Cylinders", "completed": 0, "total": 25},
 			{"name": "Triangles", "completed": 0, "total": 42},
