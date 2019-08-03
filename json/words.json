@@ -1313,6 +1313,156 @@
 		"word": "Conspicuous",
 		"meaning": "attracting notice, standing out, visible",
 		"phrase": "He was very thin, with a conspicuous Adam's apple"
+	},
+	{
+		"word": "solvent",
+		"meaning": "not in debt",
+		"phrase": "Interest rate rises have very severe effects on normally solvent companies"
+	},
+	{
+		"word": "nuanced",
+		"meaning": "to give subtle differences to",
+		"phrase": "His London accent is very slightly nuanced by an occasional Russian pronunciation"
+	},
+	{
+		"word": "hamper",
+		"meaning": ["basket used for laundry", "hinder, impede the movement or progress of"],
+		"phrase": "Their work is hampered by lack of funds"
+	},
+	{
+		"word": "uptick",
+		"meaning": "a small increase",
+		"phrase": "An uptick in foreign tourism"
+	},
+	{
+		"word": "bevy",
+		"meaning": "a large group",
+		"phrase": "A bevy of lawyers"
+	},
+	{
+		"word": "Impregnable",
+		"meaning": "invincible, invulnerable. Pregnable means “vulnerable to attack”",
+		"phrase": ""
+	},
+	{
+		"word": "vex",
+		"meaning": "annoy, irritate, irk",
+		"phrase": "The memory of the conversation still vexed him"
+	},
+	{
+		"word": "irk",
+		"meaning": "annoy, irritate, vex",
+		"phrase": "It irks her to think of the runaround she received"
+	},
+	{
+		"word": "assail",
+		"meaning": ["attack, criticize, censure", "experience unpleasant thoughts"],
+		"phrase": ["The Scots army assailed Edward's army from the rear", "Many parents assailed the proposal to lengthen the school day", "She was assailed by doubts and regrets"]
+	},
+	{
+		"word": "marshal",
+		"meaning": "(verb) gather, arrange, assemble",
+		"phrase": ["The president is trying to marshal support for his plan", "The general marshaled his troops"]
+	},
+	{
+		"word": "muster",
+		"meaning": "(verb) gather, arrange, assemble",
+		"phrase": ["He could fail to muster a majority", "Reporters mustered outside her house"]
+	},
+	{
+		"word": "Insidious",
+		"meaning": "gradually and secretly causing harm",
+		"phrase": ["Sexually transmitted diseases can be insidious and sometimes without symptoms", "Cancer is an insidious disease", "His negative attitude slowly and insidiously spoiled the atmosphere around the office"]
+	},
+	{
+		"word": "Surreptitious",
+		"meaning": "secret, without anyone seeing",
+		"phrase": "A surreptitious glance"
+	},
+	{
+		"word": "flat out",
+		"meaning": "as fast or as hard as possible",
+		"phrase": "The whole team is working flat out to satisfy demand"
+	},
+	{
+		"word": "Not to be sneezed at",
+		"meaning": "(idiom) “não é de se jogar fora”",
+		"phrase": "Well, a five percent pay increase means an extra $700 a year, which is not to be sneezed at!"
+	},
+	{
+		"word": "Happenstance",
+		"meaning": "coincidence",
+		"phrase": "By a strange happenstance, they were both in Paris at the same time"
+	},
+	{
+		"word": "underpin",
+		"meaning": "support, give foundation to",
+		"phrase": ["He presented data to underpin his argument", "Gradually, the laws that underpinned apartheid were abolished"]
+	},
+	{
+		"word": "ambivalent",
+		"meaning": "having mixed feelings, equivocal, uncertain",
+		"phrase": "Some loved her, some hated her, few were ambivalent about her"
+	},
+	{
+		"word": "resolute",
+		"meaning": "determined, headstrong, unwavering",
+		"phrase": ["she was resolute and unswerving", "a resolute character"]
+	},
+	{
+		"word": "equivocal",
+		"meaning": ["uncertain", "ambiguous"],
+		"phrase": ["The results of the investigation were equivocal", "His words to the press were deliberately equivocal - he didn't deny the reports but neither did he confirm them"]
+	},
+	{
+		"word": "Unswerving",
+		"meaning": "inabalável",
+		"phrase": "His loyalty and faith are unswerving"
+	},
+	{
+		"word": "swerve",
+		"meaning": "a sudden change of direction, deviate, veer",
+		"phrase": ["A car swerved around a corner", "She is one of those rare politicians whom one can trust not to swerve from policy and principle"]
+	},
+	{
+		"word": "veer",
+		"meaning": "a sudden change of direction, deviate, swerve",
+		"phrase": ["An oil tanker that had veered off course", "The conversation eventually veered away from theatrical things"]
+	},
+	{
+		"word": "waver",
+		"meaning": "become unsteady, flicker",
+		"phrase": ["The flame wavered in the draft", "His love for her had never wavered"]
+	},
+	{
+		"word": "unwavering",
+		"meaning": "steady, resolute",
+		"phrase": "She fixed him with an unwavering stare"
+	},
+	{
+		"word": "heretofore",
+		"meaning": "before now, contrary to hereafter",
+		"phrase": "Diseases that heretofore were usually confined to rural areas"
+	},
+	{
+		"word": "Tenacious",
+		"meaning": "don’t give up easily, very determined",
+		"phrase": ["He is regarded at BBC as a tenacious and persistent interviewer", "She is very tenacious and will work hard and long to achieve objectives"]
+	},
+	{
+		"word": "Sabbatical",
+		"meaning": "a paid leave",
+		"phrase": "Professor Logan will be on sabbatical this term"
+	},
+	{
+		"word": "petulant",
+		"meaning": "angry and upset in a childish way",
+		"phrase": "His critics say he's just being silly and petulant"
+	},
+	{
+		"word": "Querulous",
+		"meaning": "often complaining in an annoying way, whiny",
+		"phrase": "He became increasingly dissatisfied and querulous in his old age"
 	}
 
 ]
