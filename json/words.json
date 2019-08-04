@@ -1232,18 +1232,23 @@
 	},
 	{
 		"word": "cunning",
-		"meaning": "good at tricking other people to get what you want, sly, devious",
+		"meaning": "good at tricking other people to get what you want, sly, devious, subterfuge",
 		"phrase": "They were cunningly disguised in golf clothes"
 	},
 	{
 		"word": "sly",
-		"meaning": "good at tricking other people to get what you want, cunning, devious",
+		"meaning": "good at tricking other people to get what you want, cunning, devious, subterfuge",
 		"phrase": "He's a sly old devil. I wouldn't trust him with my money"
 	},
 	{
 		"word": "devious",
-		"meaning": ["good at tricking other people to get what you want, cunning, sly", "longer and less direct than the most straightforward route"],
+		"meaning": ["good at tricking other people to get what you want, cunning, sly, subterfuge", "longer and less direct than the most straightforward route"],
 		"phrase": ["he's as devious as a politician needs to be", "they arrived at the town by a devious route"]
+	},
+	{
+		"word": "subterfuge",
+		"meaning": "good at tricking other people to get what you want, cunning, sly, devious",
+		"phrase": "It was clear that they must have obtained the information by subterfuge"
 	},
 	{
 		"word": "chary",
@@ -1463,6 +1468,156 @@
 		"word": "Querulous",
 		"meaning": "often complaining in an annoying way, whiny",
 		"phrase": "He became increasingly dissatisfied and querulous in his old age"
+	},
+	{
+		"word": "erratic",
+		"meaning": "not constant, volatile, variable, capricious",
+		"phrase": "Her breathing was erratic"
+	},
+	{
+		"word": "Flabbergast",
+		"meaning": "surprise, astonish, astound",
+		"phrase": "This news has left me totally flabbergasted"
+	},
+	{
+		"word": "bedazzle",
+		"meaning": ["to greatly impress, enchant", "to confuse"],
+		"phrase": ["She had bedazzled him with her knowledge and beauty", "The strange atmosphere in the room had bedazzled her"]
+	},
+	{
+		"word": "indoctrinate",
+		"meaning": "teach to accept beliefs uncritically",
+		"phrase": "Broadcasting was a vehicle for indoctrinating the masses"
+	},
+	{
+		"word": "prone",
+		"meaning": "having a tendency or a penchant for something",
+		"phrase": "Prone to forget names"
+	},
+	{
+		"word": "compel",
+		"meaning": "force or coerce to do something, impel",
+		"phrase": "A sense of duty compelled Harry to answer her questions"
+	},
+	{
+		"word": "impel",
+		"meaning": "force or coerce to do something, compel",
+		"phrase": "Financial difficulties impelled him to desperate measures"
+	},
+	{
+		"word": "requite",
+		"meaning": "retribute",
+		"phrase": ["Requited love is not enough to sustain a long-term relationship", "Drake had requited the wrongs inflicted on them"]
+	},
+	{
+		"word": "doggedly",
+		"meaning": "tenaciously, very determined",
+		"phrase": "She has doggedly pursued her own path"
+	},
+	{
+		"word": "Idiosyncratic",
+		"meaning": "distinctive, an individualizing characteristic",
+		"phrase": "She emerged as one of the great, idiosyncratic talents of the nineties"
+	},
+	{
+		"word": "confound",
+		"meaning": "cause surprise, go against one’s expectation",
+		"phrase": ["The inflation figure confounded economic analysts", "The choice of Governor may confound us all"]
+	},
+	{
+		"word": "dismay",
+		"meaning": "shock, horrify, a feeling of disappointment, appall, consternation",
+		"phrase": "I was dismayed by the President's appalling economic record"
+	},
+	{
+		"word": "appall",
+		"meaning": "shock, horrify, a feeling of disappointment, dismay, consternation",
+		"phrase": "Bankers are appalled at the economic incompetence of some officials"
+	},
+	{
+		"word": "consternation",
+		"meaning": "shock, horrify, a feeling of disappointment, dismay, appall",
+		"phrase": "To his consternation, when he got to the airport he found he'd forgotten his passport"
+	},
+	{
+		"word": "uncouth",
+		"meaning": "lacking good manners or refinement",
+		"phrase": "She thought he was loud-mouthed and uncouth"
+	},
+	{
+		"word": "affluent",
+		"meaning": "wealthy",
+		"phrase": "The affluent societies of the western world"
+	},
+	{
+		"word": "eccentric",
+		"meaning": "(of a person or their behavior) unconventional and slightly strange",
+		"phrase": "My favorite aunt is very eccentric"
+	},
+	{
+		"word": "gauche",
+		"meaning": "lacking social grace, awkward",
+		"phrase": "It was gauche to invite them just two days before the party"
+	},
+	{
+		"word": "abridge",
+		"meaning": "shorten, reduced, curtail",
+		"phrase": "The introduction is abridged from the author's afterword to the novel"
+	},
+	{
+		"word": "curtail",
+		"meaning": "shorten, reduced, abridge",
+		"phrase": "Civil liberties were further curtailed"
+	},
+	{
+		"word": "galvanize",
+		"meaning": "to cause someone to suddenly take action, especially by shocking them",
+		"phrase": "The prospect of his mother coming to stay galvanized him into action and he started cleaning the house"
+	},
+	{
+		"word": "parroted",
+		"meaning": "repeat mechanically, “parrot”",
+		"phrase": "Encouraging students to parrot back information"
+	},
+	{
+		"word": "even-handed",
+		"meaning": "fair and impartial",
+		"phrase": "Several broadcasters have been criticized for failing to give even-handed treatment to all the parties during the election campaign"
+	},
+	{
+		"word": "equitable",
+		"meaning": "fair and impartial",
+		"phrase": "An equitable balance of power"
+	},
+	{
+		"word": "putative",
+		"meaning": "presumed, supposed, generally thought to be (even if not true)",
+		"phrase": "The putative leader of the terrorist cell was arrested yesterday"
+	},
+	{
+		"word": "go-between",
+		"meaning": "intermediary, negotiator",
+		"phrase": "The ambassador has offered to act as a go-between for the two countries involved in the conflict"
+	},
+	{
+		"word": "whim",
+		"meaning": "a sudden desire or change of mind, impulse",
+		"phrase": "He quit his job on a whim"
+	},
+	{
+		"word": "fawn",
+		"meaning": "(verb) displaying exaggerated flattery, obsequious",
+		"phrase": "Congressmen fawn over the President"
+	},
+	{
+		"word": "deference",
+		"meaning": "respect, regard",
+		"phrase": "He addressed her with the deference due to age"
+	},
+	{
+		"word": "corroborate",
+		"meaning": "confirm, endorse",
+		"phrase": "The witness had corroborated the boy's account of the attack"
 	}
 
 ]
