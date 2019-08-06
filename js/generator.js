@@ -3,6 +3,7 @@
 var state = "start";
 var currentWord;
 var currentIndex;
+var totalDeletions = 0;
 var words;
 
 /* Initialization function: */
@@ -32,6 +33,7 @@ function handleSwipe() {
 	if (state != "start"){
 		// Removes it from the selection array:
 		var removed = words.splice(currentIndex, 1);
+		totalDeletions += 1;
 		// Generates a new word:
 		state = "start";
 		handleTouch();
@@ -43,7 +45,7 @@ function handleTouch() {
 	// Checks if no words are being displayed:
 	if ((state == "start") || (state == "definition")){
 		// Samples a word:
-		currentIndex = Math.floor(Math.random() * words.length);
+		currentIndex = Math.floor( Math.random() * (words.length - totalDeletions) );
 		currentWord = words[currentIndex];
 		createWord();
 		state = "word";
