@@ -2,6 +2,7 @@
 // Possible states: "start" (no words shown), "word" (a word is shown), "definition" (the definition is shown)
 var state = "start";
 var currentWord;
+var currentIndex;
 var words;
 
 /* Initialization function: */
@@ -16,16 +17,34 @@ $(document).ready(function(){
 		// Allows the simulation to start:
 		$(document).on('click touch', handleTouch);
 
+		// Adds a swipe event (to stop a word from showing up again):
+		$(document).on('swipe', handleSwipe);
+
 	});
 
 });
+
+
+
+// Upon swiping during a word, the current word will not be shown again in the future (removes from selection array):
+function handleSwipe() {
+	// Checks if a word is being displayed:
+	if (state != "start"){
+		// Removes it from the selection array:
+		var removed = words.splice(currentIndex, 1);
+		// Generates a new word:
+		state = "start";
+		handleTouch();
+	}
+}
 
 
 function handleTouch() {
 	// Checks if no words are being displayed:
 	if ((state == "start") || (state == "definition")){
 		// Samples a word:
-		currentWord = words[Math.floor(Math.random() * words.length)];
+		currentIndex = Math.floor(Math.random() * words.length);
+		currentWord = words[currentIndex];
 		createWord();
 		state = "word";
 	} else if (state == "word"){
