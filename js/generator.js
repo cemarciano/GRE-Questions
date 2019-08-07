@@ -21,6 +21,13 @@ $(document).ready(function(){
 		// Adds a swipe event (to stop a word from showing up again):
 		$(document).on('swipe', handleSwipe);
 
+		$(document).on("mouseup", function(){
+			$(document).unbind();
+			// Rebinds events:
+			$(document).on('click touch', handleTouch);
+			$(document).on('swipe', handleSwipe);
+		})
+
 	});
 
 });
@@ -38,7 +45,10 @@ function handleSwipe() {
 		state = "start";
 		handleTouch();
 	}
+
 }
+
+
 
 
 function handleTouch() {
