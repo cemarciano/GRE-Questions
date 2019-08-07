@@ -26,7 +26,7 @@
 			{"name": "Data Interpretation", "completed": 23, "total": 49, "wrong": [15]},
 			{"name": "Polygons and Rectangular Solids", "completed": 15, "total": 22, "wrong": [9]},
 			{"name": "Circles and Cylinders", "completed": 0, "total": 25},
-			{"name": "Triangles", "completed": 0, "total": 42},
+			{"name": "Triangles", "completed": 21, "total": 42, "wrong": [17], "interesting": [2,6,7,14]},
 			{"name": "Coordinate Geometry", "completed": 24, "total": 24, "wrong": [11,13,14,21,22]},
 			{"name": "Mixed Geometry", "completed": 0, "total": 18},
 			{"name": "Advanced Quant", "completed": 0, "total": 42},
