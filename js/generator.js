@@ -21,18 +21,30 @@ $(document).ready(function(){
 		// Adds a swipe event (to stop a word from showing up again):
 		$(document).on('swipe', handleSwipe);
 
-		$(document).on("mouseup", function(){
-			$(document).unbind();
-			// Rebinds events:
-			$(document).on('click touch', handleTouch);
-			$(document).on('swipe', handleSwipe);
-		})
+		$(document).on('taphold', () => {
+			console.log("hey")
+			alert("Total words: " + words.length)
+		});
+
+		// Removes JQuery mobile loading message:
+		$.mobile.loading().hide();
+
+		// To prevent tap+swipe, we remove bindings on swipe and readd them on mouseup:
+		$(document).on("mouseup", handleMouseUp)
 
 	});
 
 });
 
 
+function handleMouseUp(){
+	// Make sure no bindings exist:
+	$(document).unbind();
+	// Rebinds events:
+	$(document).on('click touch', handleTouch);
+	$(document).on('swipe', handleSwipe);
+	$(document).on('mouseup', handleMouseUp);
+}
 
 // Upon swiping during a word, the current word will not be shown again in the future (removes from selection array):
 function handleSwipe() {
@@ -55,7 +67,7 @@ function handleTouch() {
 	// Checks if no words are being displayed:
 	if ((state == "start") || (state == "definition")){
 		// Samples a word:
-		currentIndex = Math.floor( Math.random() * (words.length - totalDeletions) );
+		currentIndex = Math.floor( Math.random() * (words.length) );
 		currentWord = words[currentIndex];
 		createWord();
 		state = "word";
