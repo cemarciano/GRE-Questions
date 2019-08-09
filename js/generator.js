@@ -4,6 +4,7 @@ var state = "start";
 var currentWord;
 var currentIndex;
 var totalDeletions = 0;
+var progressBar = "visible";
 var words;
 
 /* Initialization function: */
@@ -15,16 +16,17 @@ $(document).ready(function(){
 		// Saves json data:
 		words = data;
 
+		// Initializes progress bar:
+		updateProgressBar();
+
 		// Allows the simulation to start:
 		$(document).on('click touch', handleTouch);
 
 		// Adds a swipe event (to stop a word from showing up again):
 		$(document).on('swipe', handleSwipe);
 
-		$(document).on('taphold', () => {
-			console.log("hey")
-			alert("Total words: " + words.length)
-		});
+		// Adds an event to toggle the progress bar:
+		$(document).on('taphold', toggleProgressBar);
 
 		// Removes JQuery mobile loading message:
 		$.mobile.loading().hide();
@@ -43,14 +45,14 @@ function handleMouseUp(){
 	// Rebinds events:
 	$(document).on('click touch', handleTouch);
 	$(document).on('swipe', handleSwipe);
+	$(document).on('taphold', toggleProgressBar);
 	$(document).on('mouseup', handleMouseUp);
 }
 
 // Upon swiping during a word, the current word will not be shown again in the future (removes from selection array):
 function handleSwipe() {
 	// Adds a visual swipe effect:
-	$(".wrapper").children()
-	.animate(
+	$(".wrapper").animate(
 		{
 			"margin-left" : "44vw",
 			"opacity": 0
@@ -64,11 +66,17 @@ function handleSwipe() {
 
 // Function to be called once the swipe animation is over:
 function swipeComplete(){
+	// Deletes current wrapper:
+	$(".wrapper").remove();
+	// Creates new wrapper:
+	$(".center").append( $("<div></div>").addClass("wrapper") );
 	// Checks if a word is being displayed:
 	if (state != "start"){
 		// Removes it from the selection array:
 		var removed = words.splice(currentIndex, 1);
 		totalDeletions += 1;
+		// Visually updates progress bar:
+		updateProgressBar();
 		// Generates a new word:
 		state = "start";
 		handleTouch();
@@ -89,6 +97,45 @@ function handleTouch() {
 		state = "definition";
 	}
 
+}
+
+function toggleProgressBar() {
+	let duration = 400;
+	if (progressBar == "visible"){
+		// Hides progress bar:
+		$(".progress-wrapper").animate(
+			{ "margin-top" : "-4vh",
+			  "duration" : duration
+		  	}
+		)
+		$(".progress-text").animate(
+			{ "top" : "-3.8vh",
+			  "duration" : duration
+		  	}
+		)
+		progressBar = "hidden"
+	} else if (progressBar == "hidden") {
+		// Displays progress bar:
+		$(".progress-wrapper").animate(
+			{ "margin-top" : "3vh",
+			  "duration" : duration
+		  	}
+		)
+		$(".progress-text").animate(
+			{ "top" : "3.2vh",
+			  "duration" : duration
+		  	}
+		)
+		progressBar = "visible"
+	}
+
+}
+
+// Updates progress bar content:
+function updateProgressBar() {
+	let percentage = 100 * (totalDeletions / (words.length + totalDeletions));
+	$(".progress").css("width", percentage + "%");
+	$(".progress-text").text( totalDeletions + "/" + (words.length + totalDeletions) )
 }
 
 function createWord(){
