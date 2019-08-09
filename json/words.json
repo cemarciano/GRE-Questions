@@ -771,11 +771,11 @@
 	},
 	{
 		"word": "diatribe",
-		"meaning": "long and angry speech of criticism or accusation, denunciation"
+		"meaning": "long and angry speech of criticism or accusation, denunciation, polemic"
 	},
 	{
 		"word": "polemic",
-		"meaning": "long and angry speech of criticism or accusation, denunciation"
+		"meaning": "long and angry speech of criticism or accusation, denunciation, diatribe"
 	},
 	{
 		"word": "flagging",
@@ -1187,8 +1187,8 @@
 	},
 	{
 		"word": "deftly",
-		"meaning": "skilfully, “habilmente”, dexterity",
-		"phrase": ["She deftly avoided answering his question", "Her fingers moved deftly, quickly parting the grass"]
+		"meaning": "skilfully, especially with the hands, “habilmente”, dexterity",
+		"phrase": ["He caught the ball with great dexterity", "Young children lack the dexterity to brush their teeth effectively"]
 	},
 	{
 		"word": "dexterity",
@@ -2008,6 +2008,31 @@
 		"word": "unworldly",
 		"meaning": ["naive", "otherworldly, out of this planet"],
 		"phrase": ["She was so shrewd in some ways, but hopelessly unworldly in others", "The unworldly monolith loomed four stories high"]
+	},
+	{
+		"word": "Headstrong",
+		"meaning": "Very determined to do something despite the wishes of others, stubborn",
+		"phrase": "She was a headstrong child, always getting into trouble"
+	},
+	{
+		"word": "self-willed",
+		"meaning": "Very determined to do something despite the wishes of others, stubborn",
+		"phrase": "He was very independent and self-willed"
+	},
+	{
+		"word": "willful",
+		"meaning": ["Very determined to do something despite the wishes of others, stubborn", "deliberate, intentional, according to one’s will (i.e. not necessarily stubborn)"],
+		"phrase": ["They eat huge quantities of sweet and fried foods, in wilful disregard of their health", "The present crisis is the result of years of wilful neglect by the council"]
+	},
+	{
+		"word": "obstinate",
+		"meaning": ["Very determined to do something despite the wishes of others, stubborn", "a problem difficult to overcome"],
+		"phrase": ["The engine obstinately refused to start", "The obstinate problem of unemployment"]
+	},
+	{
+		"word": "obdurate",
+		"meaning": "Very determined to do something despite the wishes of others, stubborn",
+		"phrase": "I argued this point with him, but he was obdurate"
 	}
 
 ]
