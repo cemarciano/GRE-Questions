@@ -488,7 +488,7 @@
 	},
 	{
 		"word": "contempt",
-		"meaning": "“desprezo”",
+		"meaning": "“desprezo”, disdain",
 		"phrase": "He showed his contempt for his job by doing it very badly"
 	},
 	{
@@ -616,7 +616,7 @@
 	},
 	{
 		"word": "fleeting",
-		"meaning": "lasting for a very short time",
+		"meaning": "lasting for a very short time, evanescent",
 		"phrase": "Hoping to get a fleeting glimpse of a whale underwater"
 	},
 	{
@@ -845,7 +845,7 @@
 	},
 	{
 		"word": "impious",
-		"meaning": "irreverent"
+		"meaning": "showing no respect"
 	},
 	{
 		"word": "tout",
@@ -996,7 +996,7 @@
 	},
 	{
 		"word": "Insouciance",
-		"meaning": "indifference",
+		"meaning": "indifference, cavalier",
 		"phrase": "An insouciant shrug"
 	},
 	{
@@ -1065,7 +1065,7 @@
 	},
 	{
 		"word": "shrewd",
-		"meaning": "astute, clever, understand and judge a situation quickly and use it in one’s own advantage",
+		"meaning": "astute, clever, understand and judge a situation quickly and use it in one’s own advantage, sagacious",
 		"phrase": "She was shrewd enough to guess the motive behind his gesture"
 	},
 	{
@@ -1187,7 +1187,12 @@
 	},
 	{
 		"word": "deftly",
-		"meaning": "skilfully, “habilmente”",
+		"meaning": "skilfully, “habilmente”, dexterity",
+		"phrase": ["She deftly avoided answering his question", "Her fingers moved deftly, quickly parting the grass"]
+	},
+	{
+		"word": "dexterity",
+		"meaning": "skilful, “hábil”, deftness",
 		"phrase": ["She deftly avoided answering his question", "Her fingers moved deftly, quickly parting the grass"]
 	},
 	{
@@ -1618,6 +1623,391 @@
 		"word": "corroborate",
 		"meaning": "confirm, endorse",
 		"phrase": "The witness had corroborated the boy's account of the attack"
+	},
+	{
+		"word": "menial",
+		"meaning": "not requiring much skill and lacking prestige",
+		"phrase": "The intern was supposed to do menial jobs"
+	},
+	{
+		"word": "jarring",
+		"meaning": "different from its surroundings, clashing, incongruous, potentially annoying",
+		"phrase": "The telephone struck a jarring note in those Renaissance surroundings"
+	},
+	{
+		"word": "jar",
+		"meaning": ["(verb) make uncomfortable, annoy, disturb", "(verb) damage a part of the body."],
+		"phrase": ["The play's symbolism jarred with the realism of its setting", "A laugh that jarred on the ears", "He jarred his knee in training"]
+	},
+	{
+		"word": "usher",
+		"meaning": "show where to go, make someone go where you want them to",
+		"phrase": ["She ushered us into her office and offered us coffee", "Officials quickly ushered the protesters out of the hall"]
+	},
+	{
+		"word": "patronize",
+		"meaning": "to speak to someone as if they were less intelligent or not important, condescend",
+		"phrase": "Stop patronizing me - I understand the play as well as you do"
+	},
+	{
+		"word": "condescend",
+		"meaning": ["to speak to someone as if they were less intelligent or not important, patronize", "agree to do something that you do not consider to be good enough for your social position"],
+		"phrase": "I wonder if Michael will condescend to visit us?"
+	},
+	{
+		"word": "candidly",
+		"meaning": "Honest and straightforward, frankly",
+		"phrase": "He candidly discussed his efforts to find employment"
+	},
+	{
+		"word": "disdain",
+		"meaning": "“desprezo”, contempt",
+		"phrase": "Disdained him as a coward"
+	},
+	{
+		"word": "vain",
+		"meaning": "“convencido”, conceited",
+		"phrase": "Their flattery made him vain"
+	},
+	{
+		"word": "conceited",
+		"meaning": "“convencido”, vain",
+		"phrase": "Fred's so conceited he'd never believe anyone would refuse him"
+	},
+	{
+		"word": "deride",
+		"meaning": "mock, express contempt for",
+		"phrase": "Critics derided the proposals as clumsy attempts to find a solution"
+	},
+	{
+		"word": "disburse",
+		"meaning": "pay out",
+		"phrase": "The local authorities annually disburse between £50 million and £100 million on arts projects"
+	},
+	{
+		"word": "recant",
+		"meaning": "“se retratar”",
+		"phrase": "Heretics were burned if they would not recant"
+	},
+	{
+		"word": "relinquish",
+		"meaning": "to give up something, stop using, renounce, waive",
+		"phrase": "He relinquished his managerial role to become chief executive"
+	},
+	{
+		"word": "renounce",
+		"meaning": "to give up something, stop using, relinquish, waive",
+		"phrase": ["He renounced drugs and alcohol completely", "Isabella offered to renounce her son's claim to the French Crown"]
+	},
+	{
+		"word": "waive",
+		"meaning": "to give up something, stop using, relinquish, renounce",
+		"phrase": ["He will waive all rights to the money", "Her tuition fees would be waived"]
+	},
+	{
+		"word": "abide",
+		"meaning": "act in accordance with, respect (a rule, a decision, or a recommendation), comply",
+		"phrase": "I said I would abide by their decision"
+	},
+	{
+		"word": "comply",
+		"meaning": "act in accordance with, respect (a rule, a decision, or a recommendation), abide",
+		"phrase": "There are serious penalties for failure to comply with the regulations"
+	},
+	{
+		"word": "discount",
+		"meaning": ["deduct from the usual cost", "regard as being unworthy of consideration"],
+		"phrase": ["Many stores will offer a discount on bulk purchases", "I'd heard rumors, but discounted them", "You shouldn't discount the possibility of him coming back"]
+	},
+	{
+		"word": "stout",
+		"meaning": ["bulky, heavy, wide", "resolute, determined, firm"],
+		"phrase": ["She is getting too stout for her dresses", "Billy had armed himself with a stout stick", "Stout resistance", "He put up a stout defense in court"]
+	},
+	{
+		"word": "plaudit",
+		"meaning": "praise, applause",
+		"phrase": "The network has received plaudits for its sports coverage"
+	},
+	{
+		"word": "to heap on",
+		"meaning": "direct, to give a large amount of something to someone",
+		"phrase": ["Everyone has been heaping praise on the firefighter who risked his life to save the little girl from the blaze", "He's been quick to heap scorn on the media for what he has called biased coverage"]
+	},
+	{
+		"word": "derivative",
+		"meaning": "imitative, based on another source",
+		"phrase": ["An artist who is not in the slightest bit derivative", "Darwin's work is derivative of the moral philosophers"]
+	},
+	{
+		"word": "sanguine",
+		"meaning": "optimistic, bullish",
+		"phrase": "They are less sanguine about the prospects for peace"
+	},
+	{
+		"word": "bullish",
+		"meaning": "optimistic, sanguine",
+		"phrase": "She's being very bullish about the firm's future"
+	},
+	{
+		"word": "high-handed",
+		"meaning": "using power without considering the feelings of others, imperious, arbitrary",
+		"phrase": "They oppose this cruel and high-handed takeover"
+	},
+	{
+		"word": "cavalier",
+		"meaning": "not caring, insouciant",
+		"phrase": ["A cavalier attitude toward public health concerns", "Has a cavalier disregard for the rights of others"]
+	},
+	{
+		"word": "evanescent",
+		"meaning": "lasting for only a short time, brief, fleeting",
+		"phrase": "A shimmering evanescent bubble"
+	},
+	{
+		"word": "Peccadilloes",
+		"meaning": "small and relatively unimportant offenses or sins",
+		"phrase": "The sexual peccadilloes of celebrities aren't necessarily news"
+	},
+	{
+		"word": "incendiary",
+		"meaning": "tending to excite, to stir up conflicts",
+		"phrase": "Incendiary speeches"
+	},
+	{
+		"word": "banal",
+		"meaning": "boring, ordinary, unoriginal",
+		"phrase": "He just sat there making banal remarks all evening"
+	},
+	{
+		"word": "sagacious",
+		"meaning": "shrewd, astute",
+		"phrase": "They were sagacious enough to avoid any outright confrontation"
+	},
+	{
+		"word": "verdant",
+		"meaning": ["covered with green plants", "new and inexperienced"],
+		"phrase": "A verdant intern has joined the firm"
+	},
+	{
+		"word": "enamor",
+		"meaning": "be filled with the feeling of love, admiration",
+		"phrase": "It is not difficult to see why Edward is enamored of her"
+	},
+	{
+		"word": "pageant",
+		"meaning": "a competition, show or ceremony",
+		"phrase": ["A beauty pageant", "Our youngest son is taking part in the school pageant"]
+	},
+	{
+		"word": "dulcet",
+		"meaning": "sweet and soothing (especially of sound)",
+		"phrase": "Record the dulcet tones of your family and friends"
+	},
+	{
+		"word": "soothing",
+		"meaning": "calming",
+		"phrase": ["She put on some soothing music", "Almond oil is renowned for its soothing properties"]
+	},
+	{
+		"word": "skittish",
+		"meaning": ["nervous or easily frightened", "lively", "unpredictable, capricious"],
+		"phrase": ["My horse is very skittish, so I have to keep him away from traffic", "Marilyn was like a child, playful and skittish one moment, sulky and withdrawn the next"]
+	},
+	{
+		"word": "sulky",
+		"meaning": "refusing to smile, being angry",
+		"phrase": "She brought along a couple of sulky kids who didn't say a word the whole time"
+	},
+	{
+		"word": "frisky",
+		"meaning": "playful and full of energy",
+		"phrase": "He bounds about like a frisky pup"
+	},
+	{
+		"word": "bound",
+		"meaning": "walk or run with leaping strides",
+		"phrase": ["Louis came bounding down the stairs", "I went up the steps in two effortless bounds"]
+	},
+	{
+		"word": "solicitous",
+		"meaning": "concerned",
+		"phrase": "She was always solicitous about the welfare of her students"
+	},
+	{
+		"word": "endearing",
+		"meaning": "lovable or charming",
+		"phrase": "An endearing little grin [a wide smile]"
+	},
+	{
+		"word": "grin",
+		"meaning": "a wide smile",
+		"phrase": ["I assumed things had gone well for him because he had a big grin on his face", "An endearing little grin"]
+	},
+	{
+		"word": "jitters",
+		"meaning": "being nervous",
+		"phrase": ["I always get the jitters the morning before an exam", "Tougher credit conditions have caused jitters in the financial markets"]
+	},
+	{
+		"word": "Hodgepodge",
+		"meaning": "a confused mixture, jumble",
+		"phrase": "Rob's living room was a hodgepodge of modern furniture and antiques"
+	},
+	{
+		"word": "jumble",
+		"meaning": "a confused mixture, hodgepodge",
+		"phrase": ["The books were in a chaotic jumble", "A drawer full of letters jumbled together"]
+	},
+	{
+		"word": "zealot",
+		"meaning": "fanatic, extreme religious beliefs",
+		"phrase": "An example of a zealot is an extremely religious person"
+	},
+	{
+		"word": "motley",
+		"meaning": "composed of diverse and often incongruous elements",
+		"phrase": "A motley crew of discontents and zealots"
+	},
+	{
+		"word": "zealous",
+		"meaning": "fervent partisanship for a person, a cause or an ideal",
+		"phrase": "A zealous supporter of the government's policies"
+	},
+	{
+		"word": "zeal",
+		"meaning": "great energy or enthusiasm in pursuit of a cause",
+		"phrase": "His zeal for privatization"
+	},
+	{
+		"word": "Facetious",
+		"meaning": "not serious, flippant, frivolous",
+		"phrase": "“We could spend all our income on health care,” she said facetiously"
+	},
+	{
+		"word": "flippant",
+		"meaning": "not serious, facetious, frivolous",
+		"phrase": "It's easy to be flippant, but we have a serious problem to deal with here"
+	},
+	{
+		"word": "frivolous",
+		"meaning": "not serious, facetious, flippant",
+		"phrase": ["I think he sees her as a frivolous young woman", "I feel like doing something completely frivolous today"]
+	},
+	{
+		"word": "insightful",
+		"meaning": "showing a deep understanding",
+		"phrase": "She offered some really interesting, insightful observations"
+	},
+	{
+		"word": "Disingenuous",
+		"meaning": "dishonest, lying, pretend to know less, mendacious",
+		"phrase": ["This journalist was being somewhat disingenuous as well as cynical", "It would be disingenuous of us to pretend ignorance of our book's impact"]
+	},
+	{
+		"word": "underhanded",
+		"meaning": "done in a secret and dishonest way",
+		"phrase": "An underhanded method of snatching clients from rivals"
+	},
+	{
+		"word": "legerdemain",
+		"meaning": ["hiding the truth to trick people, guile, chicanery", "a magical trick"],
+		"phrase": ["The survey suggests nearly half the electorate believes the president won through electoral legerdemain", "There are traditional acts of legerdemain with bright scarves and floating balls"]
+	},
+	{
+		"word": "circumscribe",
+		"meaning": "restrict, limit",
+		"phrase": "Their movements were strictly monitored and circumscribed"
+	},
+	{
+		"word": "virtual",
+		"meaning": "almost, but not exactly",
+		"phrase": ["She was a virtual unknown before this movie", "Snow brought Minneapolis to a virtual standstill yesterday"]
+	},
+	{
+		"word": "garland",
+		"meaning": "“guirlanda”, a circle of flowers and leaves",
+		"phrase": "A garland of white roses"
+	},
+	{
+		"word": "obloquy",
+		"meaning": "strong public criticism",
+		"phrase": ["He endured years of contempt and obloquy", "No matter with what good intentions he paves his path, he will finish in obloquy"]
+	},
+	{
+		"word": "vilify",
+		"meaning": "to speak ill of, defame, slander",
+		"phrase": "He has been vilified in the press"
+	},
+	{
+		"word": "artifice",
+		"meaning": "clever trick intended to deceive and fool people",
+		"phrase": "Amazingly for Hollywood, she seems almost entirely without artifice"
+	},
+	{
+		"word": "stratagem",
+		"meaning": "clever trick intended to deceive and fool people",
+		"phrase": "A series of devious stratagems"
+	},
+	{
+		"word": "parsimony",
+		"meaning": "extreme unwillingness to spend resources or money, miserliness, stinginess",
+		"phrase": "She criticised government parsimony with defence investment"
+	},
+	{
+		"word": "Pulchritude",
+		"meaning": "beauty",
+		"phrase": "The irresistible pulchritude of her friend"
+	},
+	{
+		"word": "Pulchritudinous",
+		"meaning": "beautiful",
+		"phrase": "Last year, a pulchritudinous gal from Ohio won the competition"
+	},
+	{
+		"word": "edgy",
+		"meaning": ["Tense, nervous", "(informal) at the forefront of a trend, avant-garde"],
+		"phrase": ["He became edgy and defensive", "Their songs combine good music and edgy ideas"]
+	},
+	{
+		"word": "shenanigans",
+		"meaning": "Secret or dishonest activities",
+		"phrase": "Widespread financial shenanigans had ruined the fortunes of many"
+	},
+	{
+		"word": "esoteric",
+		"meaning": "understood by only a small number of people with specialized knowledge or interest",
+		"phrase": "Literary readings can sometimes seem esoteric, but we are trying to make them more attractive to more people"
+	},
+	{
+		"word": "intently",
+		"meaning": "with close attention, attentively",
+		"phrase": "He gazed at her intently"
+	},
+	{
+		"word": "attentively",
+		"meaning": "with close attention, intently",
+		"phrase": "He gazed at her attentively"
+	},
+	{
+		"word": "lofty",
+		"meaning": ["tall, high", "high moral standards, noble", "arrogant, haughty"],
+		"phrase": ["The elegant square was shaded by lofty palms", "An extraordinary mixture of harsh reality and lofty ideals", "Lofty intellectual disdain"]
+	},
+	{
+		"word": "minutiae",
+		"meaning": "Small and often unimportant details",
+		"phrase": ["The committee studied the minutiae of the report for hours", "Comedy is so often based on the minutiae of everyday life"]
+	},
+	{
+		"word": "dogmatic",
+		"meaning": "certain that you are right and everybody else is wrong",
+		"phrase": "He gives his opinion without trying to be dogmatic"
+	},
+	{
+		"word": "unworldly",
+		"meaning": ["naive", "otherworldly, out of this planet"],
+		"phrase": ["She was so shrewd in some ways, but hopelessly unworldly in others", "The unworldly monolith loomed four stories high"]
 	}
 
 ]

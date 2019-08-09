@@ -48,6 +48,22 @@ function handleMouseUp(){
 
 // Upon swiping during a word, the current word will not be shown again in the future (removes from selection array):
 function handleSwipe() {
+	// Adds a visual swipe effect:
+	$(".wrapper").children()
+	.animate(
+		{
+			"margin-left" : "44vw",
+			"opacity": 0
+		},
+		{
+			"duration" : 100,
+			"complete" : swipeComplete
+	  	}
+	);
+}
+
+// Function to be called once the swipe animation is over:
+function swipeComplete(){
 	// Checks if a word is being displayed:
 	if (state != "start"){
 		// Removes it from the selection array:
@@ -57,10 +73,7 @@ function handleSwipe() {
 		state = "start";
 		handleTouch();
 	}
-
 }
-
-
 
 
 function handleTouch() {
