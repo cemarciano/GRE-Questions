@@ -13,7 +13,7 @@
 			{"name": "Fractions and Decimals", "completed": 17, "total": 38, "wrong": [5,6], "interesting": [17]},
 			{"name": "Percents", "completed": 27, "total": 54, "wrong": [3,22], "interesting": [1,14,15,23]},
 			{"name": "Divisibility and Primes", "completed": 3, "total": 33, "wrong": [2,3]},
-			{"name": "Exponents and Roots", "completed": 0, "total": 30},
+			{"name": "Exponents and Roots", "completed": 15, "total": 30, "interesting": [4,14,15]},
 			{"name": "Number Properties", "completed": 20, "total": 39},
 			{"name": "Word Problems", "completed": 15, "total": 28, "interesting": [13]},
 			{"name": "Two-Variable Word Problems", "completed": 0, "total": 25},
