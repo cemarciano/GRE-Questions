@@ -548,7 +548,8 @@
 	},
 	{
 		"word": "scrupulous",
-		"meaning": "great attention to detail, dedicated, painstaking, avoid do wrong"
+		"meaning": ["very honest", "great attention to detail, dedicated, painstaking, avoid do wrong"],
+		"phrase": "A scrupulous politician would not lie about her business interests"
 	},
 	{
 		"word": "diligent",
@@ -670,7 +671,7 @@
 	},
 	{
 		"word": "wallow",
-		"meaning": "“se mergulhar”, to stay in that state without trying to change.",
+		"meaning": "(person or animal only) “se mergulhar”, to stay in that state without trying to change.",
 		"phrase": "He was not a fellow to shed tears, or wallow in self-pity"
 	},
 	{
@@ -1085,7 +1086,7 @@
 	},
 	{
 		"word": "effusive",
-		"meaning": "expressing gratitude, pleasure or approval with a lot of emotion, heartfelt",
+		"meaning": "expressing gratitude, pleasure or approval with a lot of emotion, heartfelt, gushing",
 		"phrase": "They gave us such an effusive welcome it was quite embarrassing"
 	},
 	{
@@ -1188,12 +1189,13 @@
 	{
 		"word": "deftly",
 		"meaning": "skilfully, especially with the hands, “habilmente”, dexterity",
-		"phrase": ["He caught the ball with great dexterity", "Young children lack the dexterity to brush their teeth effectively"]
+		"phrase": ["She deftly avoided answering his question", "Her fingers moved deftly, quickly parting the grass"]
+
 	},
 	{
 		"word": "dexterity",
 		"meaning": "skilful, “hábil”, deftness",
-		"phrase": ["She deftly avoided answering his question", "Her fingers moved deftly, quickly parting the grass"]
+		"phrase": ["He caught the ball with great dexterity", "Young children lack the dexterity to brush their teeth effectively"]
 	},
 	{
 		"word": "abhorrent",
@@ -1227,12 +1229,12 @@
 	},
 	{
 		"word": "guile",
-		"meaning": "clever but dishonest talk or behavior used to deceive (fool) someone, chicanery",
+		"meaning": "clever but dishonest talk or behavior used to deceive (fool) someone, chicanery, legerdemain",
 		"phrase": "The president will need to use all her political guile to stay in power"
 	},
 	{
 		"word": "chicanery",
-		"meaning": "clever but dishonest talk or behavior used to deceive (fool) someone, guile",
+		"meaning": "clever but dishonest talk or behavior used to deceive (fool) someone, guile, legerdemain",
 		"phrase": "The investigation revealed political chicanery and corruption at the highest levels"
 	},
 	{
@@ -1546,7 +1548,7 @@
 	},
 	{
 		"word": "uncouth",
-		"meaning": "lacking good manners or refinement",
+		"meaning": "“deselegante”, lacking good manners or refinement",
 		"phrase": "She thought he was loud-mouthed and uncouth"
 	},
 	{
@@ -1561,8 +1563,8 @@
 	},
 	{
 		"word": "gauche",
-		"meaning": "lacking social grace, awkward",
-		"phrase": "It was gauche to invite them just two days before the party"
+		"meaning": ["“deselegante”", "awkward and uncomfortable in the company of others"],
+		"phrase": ["It was gauche to invite them just two days before the party", "Younger people often feel gauche and awkward, and frequently self-conscious"]
 	},
 	{
 		"word": "abridge",
@@ -1636,7 +1638,7 @@
 	},
 	{
 		"word": "jar",
-		"meaning": ["(verb) make uncomfortable, annoy, disturb", "(verb) damage a part of the body."],
+		"meaning": ["(verb) to have an unpleasent effect on something because of being different or unexpected", "(verb) damage a part of the body."],
 		"phrase": ["The play's symbolism jarred with the realism of its setting", "A laugh that jarred on the ears", "He jarred his knee in training"]
 	},
 	{
@@ -1821,7 +1823,7 @@
 	},
 	{
 		"word": "frisky",
-		"meaning": "playful and full of energy",
+		"meaning": "playful and full of energy, frolic",
 		"phrase": "He bounds about like a frisky pup"
 	},
 	{
@@ -2010,6 +2012,11 @@
 		"phrase": ["She was so shrewd in some ways, but hopelessly unworldly in others", "The unworldly monolith loomed four stories high"]
 	},
 	{
+		"word": "taciturn",
+		"meaning": "(of a person) reserved or uncommunicative in speech, saying little",
+		"phrase": "After such gatherings, she would be taciturn and morose"
+	},
+	{
 		"word": "Headstrong",
 		"meaning": "Very determined to do something despite the wishes of others, stubborn",
 		"phrase": "She was a headstrong child, always getting into trouble"
@@ -2033,6 +2040,459 @@
 		"word": "obdurate",
 		"meaning": "Very determined to do something despite the wishes of others, stubborn",
 		"phrase": "I argued this point with him, but he was obdurate"
+	},
+	{
+		"word": "Self-deprecating",
+		"meaning": "knowing about one’s own faults and shortcomings, and even making humor of it",
+		"phrase": "Although he is always self-deprecating, he is a lawyer of considerable experience"
+	},
+	{
+		"word": "shortcoming",
+		"meaning": "fault, flaw",
+		"phrase": "Whatever his shortcomings as a husband, he was a good father to his children"
+	},
+	{
+		"word": "deter",
+		"meaning": "prevent, discourage",
+		"phrase": ["Only a health problem would deter him from seeking re-election", "High prices are deterring many young people from buying houses"]
+	},
+	{
+		"word": "dissuade",
+		"meaning": "persuade against doing something",
+		"phrase": "His friends tried to dissuade him from flying"
+	},
+	{
+		"word": "boggle",
+		"meaning": ["to have difficulty imagining something", "hesitate or be anxious"],
+		"phrase": ["My mind boggles at the amount of money they spend on food", "You never boggle at plain speaking"]
+	},
+	{
+		"word": "spiteful",
+		"meaning": "malicious",
+		"phrase": "The teachers made spiteful little jokes about me"
+	},
+	{
+		"word": "pervasive",
+		"meaning": "present or noticeable in every part of a thing or place",
+		"phrase": ["The influence of Freud is pervasive in her books", "Reforms are being undermined by the all-pervasive corruption in the country"]
+	},
+	{
+		"word": "provincial",
+		"meaning": ["limited in outlook, narrow, parochial", "unsophisticated"]
+	},
+	{
+		"word": "Self-conscious",
+		"meaning": "nervous because you’re worried about what other people think about you or your actions",
+		"phrase": "He looked uncomfortable, like a self-conscious adolescent"
+	},
+	{
+		"word": "poignant",
+		"meaning": "touching, sad",
+		"phrase": "A poignant reminder of the passing of time"
+	},
+	{
+		"word": "mirth",
+		"meaning": "joy, laughter",
+		"phrase": "Her impersonations of our teachers were a source of considerable mirth"
+	},
+	{
+		"word": "glee",
+		"meaning": "joy, happiness, excitement",
+		"phrase": "She opened her presents with glee"
+	},
+	{
+		"word": "muted",
+		"meaning": "not expressed strongly or openly",
+		"phrase": ["There was polite, muted applause when I finished speaking", "Muted anger"]
+	},
+	{
+		"word": "Sobriety",
+		"meaning": ["seriousness", "being sober"],
+		"phrase": ["We had the priest sitting at our table, which instilled a little sobriety into the occasion", "They gave him a sobriety test"]
+	},
+	{
+		"word": "solemnity",
+		"meaning": ["seriousness, dignity", "a formal ceremony"],
+		"phrase": ["The solemnity of a funeral service", "The ritual of the Church was observed in all its solemnities"]
+	},
+	{
+		"word": "probity",
+		"meaning": "strong moral principals, integrity, honesty",
+		"phrase": ["Financial probity", "Her probity and integrity are beyond question"]
+	},
+	{
+		"word": "inscrutable",
+		"meaning": "impossible to understand, enigmatic",
+		"phrase": ["An inscrutable smile", "The Terms of Service are inscrutable"]
+	},
+	{
+		"word": "scathing",
+		"meaning": "criticizing severely",
+		"phrase": "He was very scathing about the report, saying it was inaccurate"
+	},
+	{
+		"word": "unduly",
+		"meaning": "excessively, undue",
+		"phrase": "To be considered for publication, letters should not be unduly long"
+	},
+	{
+		"word": "mercantilist",
+		"meaning": "commercial, buying or selling goods"
+	},
+	{
+		"word": "impenetrable",
+		"meaning": ["impossible to pass through", "impossible to understand"],
+		"phrase": "Her expression was impenetrable"
+	},
+	{
+		"word": "onerous",
+		"meaning": "overly difficult, taxing, burdensome, arduous",
+		"phrase": ["She found the duties of motherhood onerous", "The onerous task of finding a peaceful solution"]
+	},
+	{
+		"word": "burdensome",
+		"meaning": "overly difficult, taxing, onerous, arduous",
+		"phrase": ["A burdensome task", "It tends to be more burdensome for society"]
+	},
+	{
+		"word": "arduous",
+		"meaning": "overly difficult, taxing, onerous, burdensome",
+		"phrase": "an arduous climb"
+	},
+	{
+		"word": "oppressive",
+		"meaning": ["inflicting hardship, especially on a minority", "overwhelming, hard to bear"],
+		"phrase": "A profound loneliness, an oppressive emptiness"
+	},
+	{
+		"word": "venal",
+		"meaning": "willing to behave dishonestly in exchange for money, capable of being bought or bribed",
+		"phrase": ["A venal ruler", "A venal regime", "They are accused of being involved in venal practices"]
+	},
+	{
+		"word": "venality",
+		"meaning": "willing to behave dishonestly in exchange for money, capable of being bought or bribed",
+		"phrase": ["A venal ruler", "A venal regime", "They are accused of being involved in venal practices"]
+	},
+	{
+		"word": "hectic",
+		"meaning": "frenetic, feverish",
+		"phrase": "The area has become a haven for people tired of the hectic pace of city life"
+	},
+	{
+		"word": "feverish",
+		"meaning": "frenetic, hectic",
+		"phrase": "the next couple of weeks were spent in a whirl of feverish activity"
+	},
+	{
+		"word": "unwind",
+		"meaning": "relax after a period of work or tension",
+		"phrase": "The Grand Hotel is a superb place to unwind"
+	},
+	{
+		"word": "equable",
+		"meaning": ["calm, tranquil, not easily angered, even-tempered, placid", "changing suddenly, stable"],
+		"phrase": ["Graham has a fairly equable temperament - I haven't often seen him really angry", "The south of the country enjoys an equable climate"]
+	},
+	{
+		"word": "even-tempered",
+		"meaning": "calm, tranquil, not easily angered, equable, placid",
+		"phrase": "a gentle and even-tempered man"
+	},
+	{
+		"word": "placid",
+		"meaning": "calm, tranquil, not easily angered, equable, even-tempered",
+		"phrase": "The placid waters of a small lake"
+	},
+	{
+		"word": "blithe",
+		"meaning": "happily not caring",
+		"phrase": ["A blithe disregard for the rules of the road", "Without reading the contract, she blithely agreed to sign it"]
+	},
+	{
+		"word": "heedless",
+		"meaning": "negligent, not giving attention to the risks. Contrary of heedful",
+		"phrase": ["Heedless destruction of the rainforests is contributing to global warming", "Heedless of the hurricane warnings, they took the small boat out into open water"]
+	},
+	{
+		"word": "heedful",
+		"meaning": "paying careful attention. Contrary of heedless",
+		"phrase": "The government should be heedful of the impact of inflation on savings"
+	},
+	{
+		"word": "heed",
+		"meaning": "to give careful attention to",
+		"phrase": "He did not heed the warning"
+	},
+	{
+		"word": "fetid",
+		"meaning": "bad smell",
+		"phrase": "The fetid water of the marsh"
+	},
+	{
+		"word": "desiccated",
+		"meaning": ["dried out, having all moisture removed", "lacking vitality or interest"],
+		"phrase": ["100g of desiccated coconut", "The desiccated face of the old man", "All the party seems to have to offer is the same desiccated old ideas"]
+	},
+	{
+		"word": "wizened",
+		"meaning": "shriveled or wrinkled with age",
+		"phrase": "A wizened, weather-beaten old man"
+	},
+	{
+		"word": "wrinkle",
+		"meaning": "“enrugar”",
+		"phrase": "Anti-wrinkle creams"
+	},
+	{
+		"word": "shrivel",
+		"meaning": "“murchar”",
+		"phrase": "The flowers simply shriveled up"
+	},
+	{
+		"word": "wither",
+		"meaning": ["(person) wrinkle", "(plant) shrivel and dry out", "(look) withering, mortifying", "(overall) decay, weaken"],
+		"phrase": ["The grass had withered to an unappealing brown", "the flesh had withered away", "she withered me with a look", "programs would wither away if they did not command local support"]
+	},
+	{
+		"word": "soggy",
+		"meaning": ["wet and soft", "dull and lifeless"],
+		"phrase": ["Soggy ground", "I hate it when cereal goes soggy", "The chorus sing powerfully but the interpretation is ultimately soggy"]
+	},
+	{
+		"word": "convivial",
+		"meaning": "friendly, pleasant, amiable, good-humored",
+		"phrase": "A convivial atmosphere"
+	},
+	{
+		"word": "amiable",
+		"meaning": "friendly, pleasant, convivial, good-humored",
+		"phrase": "an amiable, unassuming fellow"
+	},
+	{
+		"word": "good-humored",
+		"meaning": "friendly, pleasant, convivial, amiable",
+		"phrase": "a good-humored and tolerant man"
+	},
+	{
+		"word": "unassuming",
+		"meaning": "not pretentious or arrogant, modest, humble, self-effacing",
+		"phrase": "he was an unassuming and kindly man"
+	},
+	{
+		"word": "self-effacing",
+		"meaning": "not claiming attention to oneself, modest, humble, unassuming",
+		"phrase": "his demeanor was self-effacing, gracious, and polite"
+	},
+	{
+		"word": "demeanor",
+		"meaning": "manner, way of looking",
+		"phrase": "The boss has a calm, reassuring demeanor"
+	},
+	{
+		"word": "high jinks",
+		"meaning": "pranks"
+	},
+	{
+		"word": "jink",
+		"meaning": "dodge (a pursuer)",
+		"phrase": "She was too quick for him and jinked away every time"
+	},
+	{
+		"word": "frolic",
+		"meaning": "playful and full of energy, frisk",
+		"phrase": "A group of suntanned children were frolicking on the beach"
+	},
+	{
+		"word": "farcical",
+		"meaning": "absurd, silly, unable to take seriously, almost comical",
+		"phrase": "A farcical nine months' jail sentence imposed yesterday on a killer"
+	},
+	{
+		"word": "labile",
+		"meaning": "liable to change, unstable",
+		"phrase": ["A labile pulse", "Emotionally labile characters"]
+	},
+	{
+		"word": "satirical",
+		"meaning": "making fun of pre-existing work"
+	},
+	{
+		"word": "sanction",
+		"meaning": ["authorize", "impose a sanction, punish"],
+		"phrase": ["The government was reluctant to sanction intervention in the crisis", "The penalties for water pollution are frail in comparison with those available to sanction traditional crime"]
+	},
+	{
+		"word": "frail",
+		"meaning": "fragile, weak, vulnerable",
+		"phrase": ["A frail old lady", "The country’s frail economy"]
+	},
+	{
+		"word": "boorish",
+		"meaning": "rude, ill-mannered, “deselegante”, coarse",
+		"phrase": "I’m sick of your boorish behavior"
+	},
+	{
+		"word": "coarse",
+		"meaning": "rude, ill-mannered, “deselegante”, boorish",
+		"phrase": "A coarse joke"
+	},
+	{
+		"word": "oafish",
+		"meaning": "stupid, foolish",
+		"phrase": "This rough, oafish game depends essentially upon fear"
+	},
+	{
+		"word": "Hooligan",
+		"meaning": "A violent troublemaker, hoodlum, lout",
+		"phrase": "Hooligans had sprayed paint all over the car"
+	},
+	{
+		"word": "hoodlum",
+		"meaning": "A violent troublemaker, hooligan, lout",
+		"phrase": "Hoodlums robbed two people in a convenience store, police said"
+	},
+	{
+		"word": "lout",
+		"meaning": "A violent troublemaker, hooligan, hoodlum",
+		"phrase": "Teenage louts roam the streets at night"
+	},
+	{
+		"word": "loutish",
+		"meaning": "uncouth and aggressive",
+		"phrase": "She complained to me about a couple of loutish students"
+	},
+	{
+		"word": "ignominious",
+		"meaning": "humiliating, embarassing for being a complete failure",
+		"phrase": "No other party risked an ignominious defeat"
+	},
+	{
+		"word": "spoil",
+		"meaning": "make something less beautiful, destroy, mar, defile",
+		"phrase": "He tried not to let the bad news spoil his evening"
+	},
+	{
+		"word": "mar",
+		"meaning": "make something less beautiful, destroy, spoil, defile",
+		"phrase": "Sadly, the text is marred by careless errors"
+	},
+	{
+		"word": "defile",
+		"meaning": "make something less beautiful, destroy, spoil, mar",
+		"phrase": ["The soldiers deliberately defiled all the holy places", "It's a shame that such a beautiful area has been defiled by a rubbish dump"]
+	},
+	{
+		"word": "seemly",
+		"meaning": "polite, socially suitable",
+		"phrase": ["seemly language", "She did not exactly burst into tears, but expressed a seemly regret"]
+	},
+	{
+		"word": "stoic(al)",
+		"meaning": "determined to endure hardship without showing",
+		"phrase": ["We knew she must be in pain, despite her stoic attitude", "Local people were stoical about the damage caused by the hurricane"]
+	},
+	{
+		"word": "bogged down",
+		"meaning": "stuck, become very involved into something (and not be able to do anything else)",
+		"phrase": "Let's not get bogged down with individual complaints"
+	},
+	{
+		"word": "mired",
+		"meaning": "stuck, trapped in a difficult situation",
+		"phrase": "At the time, the country was mired in the Great Depression"
+	},
+	{
+		"word": "besotted",
+		"meaning": "completely in love with someone, infatuated",
+		"phrase": "He was so completely besotted with her that he couldn't see how badly she treated him"
+	},
+	{
+		"word": "infatuated",
+		"meaning": "completely in love with someone (but usually not lasting), besotted",
+		"phrase": "Susan was infatuated with her friend’s brother"
+	},
+	{
+		"word": "obviate",
+		"meaning": "avoid",
+		"phrase": "A peaceful solution would obviate the need to send a UN military force"
+	},
+	{
+		"word": "surplus",
+		"meaning": "excess",
+		"phrase": "The world is now producing large food surpluses"
+	},
+	{
+		"word": "quip",
+		"meaning": "a clever and funny remark, one-liner, wisecrack, bon mot"
+	},
+	{
+		"word": "one-liner",
+		"meaning": "a clever and funny remark, quip, wisecrack, bon mot"
+	},
+	{
+		"word": "wisecrack",
+		"meaning": "a clever and funny remark, quip, one-liner, bon mot"
+	},
+	{
+		"word": "bon mot",
+		"meaning": "a clever and funny remark, quip, one-liner, wisecrack",
+		"phrase": "His life was often in danger, but his ready wit always saved it and it was said that one 'bon mot' would preserve him for a month"
+	},
+	{
+		"word": "vindictive",
+		"meaning": "vengeful, great desire for revenge",
+		"phrase": "In the movie “Cape Fear”, a lawyer's family is threatened by a vindictive former prisoner"
+	},
+	{
+		"word": "vituperation",
+		"meaning": "language that is full of hate, castigation",
+		"phrase": "His voice was full of vituperation, mockery, and anger"
+	},
+	{
+		"word": "bicker",
+		"meaning": "argue about things that are not important",
+		"phrase": "The debate ended in vituperation and petty bickering"
+	},
+	{
+		"word": "con",
+		"meaning": "swindle, persuade to get money",
+		"phrase": ["She felt she had been conned into buying the car", "Thieves conned him out of his life savings"]
+	},
+	{
+		"word": "principled",
+		"meaning": "based on principles, good standards",
+		"phrase": "She was known among her colleagues as a principled professional"
+	},
+	{
+		"word": "Unsavory",
+		"meaning": "lacking morals, disreputable, immoral, unscrupulous",
+		"phrase": "He has a history of unsavory business dealings"
+	},
+	{
+		"word": "unscrupulous",
+		"meaning": "lacking morals, disreputable, immoral, unsavory",
+		"phrase": "Unscrupulous landlords might be tempted to harass existing tenants"
+	},
+	{
+		"word": "gushing",
+		"meaning": "effusive, enthusiastic",
+		"phrase": "One of the more gushing newspapers described the occasion as “a fairy-tale wedding”"
+	},
+	{
+		"word": "heartfelt",
+		"meaning": "strongly felt and sincere",
+		"phrase": "He hugged her awkwardly as he said goodbye, but his good wishes were heartfelt"
+	},
+	{
+		"word": "slur",
+		"meaning": ["mumble, pronounce words in a way that is not clear", "insult"],
+		"phrase": ["How can you possibly understand someone who slurs his speech?", "He apologized for shouting an ethnic slur at a fan"]
+	},
+	{
+		"word": "libel(ous)",
+		"meaning": "defame, slander",
+		"phrase": "The general contends the network libeled him in a television broadcast"
 	}
 
 ]
