@@ -671,7 +671,7 @@
 	},
 	{
 		"word": "wallow",
-		"meaning": "(person or animal only) “se mergulhar”, to stay in that state without trying to change.",
+		"meaning": "(person only) “se mergulhar”, to stay in that state without trying to change.",
 		"phrase": "He was not a fellow to shed tears, or wallow in self-pity"
 	},
 	{
@@ -681,7 +681,7 @@
 	},
 	{
 		"word": "whimsical",
-		"meaning": ["fanciful, quixotic, imaginative", "actions that change suddenly, volatile"],
+		"meaning": ["unusual, amusing", "actions that change suddenly, volatile"],
 		"phrase": ["The songs have a whimsical charm", "Unfortunately, his decisions are often whimsical"]
 	},
 	{
@@ -1568,12 +1568,12 @@
 	},
 	{
 		"word": "abridge",
-		"meaning": "shorten, reduced, curtail",
+		"meaning": "shorten, reduce, curtail",
 		"phrase": "The introduction is abridged from the author's afterword to the novel"
 	},
 	{
 		"word": "curtail",
-		"meaning": "shorten, reduced, abridge",
+		"meaning": "shorten, reduce, abridge",
 		"phrase": "Civil liberties were further curtailed"
 	},
 	{
@@ -1588,12 +1588,12 @@
 	},
 	{
 		"word": "even-handed",
-		"meaning": "fair and impartial",
+		"meaning": "fair and impartial, equitable",
 		"phrase": "Several broadcasters have been criticized for failing to give even-handed treatment to all the parties during the election campaign"
 	},
 	{
 		"word": "equitable",
-		"meaning": "fair and impartial",
+		"meaning": "fair and impartial, even-handed",
 		"phrase": "An equitable balance of power"
 	},
 	{
