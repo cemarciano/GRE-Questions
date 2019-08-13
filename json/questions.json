@@ -8,7 +8,7 @@
 			{"name": "Logic-Based Reading Comprehension", "completed": 0, "total": 58},
 			{"name": "Arithmetic", "completed": 20, "total": 28, "wrong": [10]},
 			{"name": "Algebra", "completed": 18, "total": 35, "wrong": [6,16]},
-			{"name": "Inequalities and Absolute Values", "completed": 0, "total": 41},
+			{"name": "Inequalities and Absolute Values", "completed": 20, "total": 41, "wrong": [19], "interesting": [8,13,16,17,18]},
 			{"name": "Functions, Formulas and Sequences", "completed": 20, "total": 57},
 			{"name": "Fractions and Decimals", "completed": 17, "total": 38, "wrong": [5,6], "interesting": [17]},
 			{"name": "Percents", "completed": 27, "total": 54, "wrong": [3,22], "interesting": [1,14,15,23]},
