@@ -28,7 +28,7 @@
 			{"name": "Circles and Cylinders", "completed": 12, "total": 25, "interesting": [10,11,12]},
 			{"name": "Triangles", "completed": 42, "total": 42, "wrong": [17,29,33,42], "interesting": [2,6,7,14,22,32,37]},
 			{"name": "Coordinate Geometry", "completed": 24, "total": 24, "wrong": [11,13,14,21,22]},
-			{"name": "Mixed Geometry", "completed": 0, "total": 18},
+			{"name": "Mixed Geometry", "completed": 18, "total": 18, "interesting": [16]},
 			{"name": "Advanced Quant", "completed": 10, "total": 42, "wrong": [1,2,4,6,7]},
 			{"name": "Essays - Issue", "completed": 0, "total": 10},
 			{"name": "Essays - Argument", "completed": 0, "total": 10},
