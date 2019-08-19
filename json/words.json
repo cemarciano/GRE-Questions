@@ -1503,8 +1503,8 @@
 	},
 	{
 		"word": "compel",
-		"meaning": "force or coerce to do something, impel",
-		"phrase": "A sense of duty compelled Harry to answer her questions"
+		"meaning": ["force or coerce to do something, impel", "to produce a strong feeling or reaction"],
+		"phrase": ["A sense of duty compelled Harry to answer her questions", "Over the years her work has compelled universal admiration and trust"]
 	},
 	{
 		"word": "impel",
