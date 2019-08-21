@@ -2364,7 +2364,7 @@
 	},
 	{
 		"word": "ignominious",
-		"meaning": "humiliating, embarassing for being a complete failure",
+		"meaning": "shameful, humiliating, embarassing for being a complete failure",
 		"phrase": "No other party risked an ignominious defeat"
 	},
 	{
@@ -2493,6 +2493,206 @@
 		"word": "libel(ous)",
 		"meaning": "defame, slander",
 		"phrase": "The general contends the network libeled him in a television broadcast"
+	},
+	{
+		"word": "evict",
+		"meaning": "expel from somewhere",
+		"phrase": "He was evicted from the bar for drunken and disorderly behaviour"
+	},
+	{
+		"word": "beefy",
+		"meaning": "muscular or powerful",
+		"phrase": ["A beefy football player", "I want to buy myself a beefier computer"]
+	},
+	{
+		"word": "freakish",
+		"meaning": ["bizarre or grotesque", "capricious, unpredictable"],
+		"phrase": ["Freakish and mischievous elves", "Freakish weather"]
+	},
+	{
+		"word": "undertaking",
+		"meaning": "a job or a task",
+		"phrase": "Painting a house is a serious undertaking"
+	},
+	{
+		"word": "avail",
+		"meaning": ["help", "“to avail oneself of” means to take advantage of"],
+		"phrase": ["Our best efforts did not avail", "His efforts availed him nothing", "They availed themselves of his services"]
+	},
+	{
+		"word": "reconcile",
+		"meaning": "cause contrasting things to coexist in harmony",
+		"phrase": ["It is sometimes difficult to reconcile science and religion", "How can you reconcile your fur coat with your love of animals?"]
+	},
+	{
+		"word": "stigmatization",
+		"meaning": "regarding someone or something with disgrace",
+		"phrase": "He argues that the world will only get better at dealing with addiction once addicts can speak without fear of stigmatization"
+	},
+	{
+		"word": "disgrace",
+		"meaning": "dishonor, shame, ignominy",
+		"phrase": ["He left the army in disgrace", "He's a disgrace to the legal profession", "You have disgraced the family name"]
+	},
+	{
+		"word": "ignominy",
+		"meaning": "dishonor, shame, disgrace",
+		"phrase": "The ignominy of being imprisoned"
+	},
+	{
+		"word": "infamy",
+		"meaning": ["being well known for a bad quality, notoriety", "a bad and shocking event"],
+		"phrase": ["The president described the attack as “a day that will live in infamy”", "The infamy of it is that the promoters have been allowed to get away with it"]
+	},
+	{
+		"word": "notoriety",
+		"meaning": "being well known for a bad quality, infamy",
+		"phrase": "He achieved notoriety for being difficult to work with as an actor"
+	},
+	{
+		"word": "foreground",
+		"meaning": ["(verb) make something the most important thing, or (noun) the area that people pay attention to", "part of the picture that is nearest to the observer"],
+		"phrase": ["Sexual relationships are foregrounded and idealized", "Historically, issues of this kind have not occupied the foreground of political debate", "In the foreground of the painting is a horse and cart"]
+	},
+	{
+		"word": "modicum",
+		"meaning": "a small quantity",
+		"phrase": "His statement had more than a modicum of truth"
+	},
+	{
+		"word": "caprice",
+		"meaning": "impulse, whim, wishes",
+		"phrase": "The $300 million palace was built to satisfy the caprice of one man"
+	},
+	{
+		"word": "demur",
+		"meaning": "refuse to do something, to object",
+		"phrase": ["The lawyer requested a break in the court case, but the judge demurred", "Normally she would have accepted the challenge, but she demurred"]
+	},
+	{
+		"word": "schism",
+		"meaning": "division, “cisma”",
+		"phrase": "The widening schism between Church leaders and politicians"
+	},
+	{
+		"word": "compliance",
+		"meaning": ["respect a rule, act in accordance", "being too willing to do what other people want you to do"],
+		"phrase": ["It is the job of the inspectors to enforce compliance with the regulations", "It's his compliance that amazes me"]
+	},
+	{
+		"word": "Shortsightedness",
+		"meaning": "unable to see far, contrary of foresight",
+		"phrase": "The policy is flawed by its extreme shortsightedness"
+	},
+	{
+		"word": "foresight",
+		"meaning": "ability to judge correctly what is going to happen in the future and plan your actions based on this knowledge, contrary of shortsightedness",
+		"phrase": "She'd had the foresight to sell her apartment just before the housing market collapsed"
+	},
+	{
+		"word": "didatic",
+		"meaning": "intended to teach",
+		"phrase": "Children’s books possess a practical, didactic purpose – to instill a love for reading"
+	},
+	{
+		"word": "syntactic",
+		"meaning": "related to the grammatical arrangements of words",
+		"phrase": "Readers use their syntactic and semantic knowledge to decode the text"
+	},
+	{
+		"word": "sartorial",
+		"meaning": "relating to clothes",
+		"phrase": "Sartorial elegance"
+	},
+	{
+		"word": "gawky",
+		"meaning": "awkward, clumsy, inelegant, ungainly",
+		"phrase": "A gawky teenager"
+	},
+	{
+		"word": "ungainly",
+		"meaning": "awkward, clumsy, inelegant, gawky",
+		"phrase": "An ungainly walk"
+	},
+	{
+		"word": "panache",
+		"meaning": ["great confidence", "extravagance, flamboyance"],
+		"phrase": ["Instead, he uses the products of that culture as evidence, with skill and panache", "He dressed with panache"]
+	},
+	{
+		"word": "flamboyance",
+		"meaning": ["great confidence", "extravagance, panache"],
+		"phrase": "The stunning tones give the show a lot of visual flamboyance"
+	},
+	{
+		"word": "florid",
+		"meaning": "overelaborate, with too much decoration or detail",
+		"phrase": ["A florid architectural style", "A florid prose or speech"]
+	},
+	{
+		"word": "pious",
+		"meaning": ["“hipócrita”, insincere, sanctimonious, hypocritical", "devoutly religious"],
+		"phrase": ["Piously brandishing (= exhibiting, showing off) political principals", "A pious family"]
+	},
+	{
+		"word": "sanctimonious",
+		"meaning": "“hipócrita”, insincere, pious, hypocritical",
+		"phrase": "What happened to all the sanctimonious talk about putting his family first?"
+	},
+	{
+		"word": "hypocritical",
+		"meaning": "“hipócrita”, insincere, pious, sanctimonious",
+		"phrase": "We don't go to church so we thought it would be hypocritical to have him christened"
+	},
+	{
+		"word": "brandish",
+		"meaning": "to exhibit in an ostentatious or aggressive manner, showing off",
+		"phrase": ["Brandishing her intellect", "Brandished a knife at them", "Piously (= hypocritically) brandishing political principals"]
+	},
+	{
+		"word": "flout",
+		"meaning": "to disregard",
+		"phrase": ["These same companies still flout basic ethical practices", "Many motorcyclists flout the law by not wearing helmets"]
+	},
+	{
+		"word": "Thoroughgoing",
+		"meaning": "complete, thorough, involving every detail",
+		"phrase": "A thoroughgoing reform of the whole economy"
+	},
+	{
+		"word": "scant",
+		"meaning": ["very little, not enough", "almost"],
+		"phrase": ["He pays scant attention to the needs of his children", "Companies with scant regard for the safety of future generations", "Add a scant half litre (= almost half a litre) of milk to the mixture and stir well"]
+	},
+	{
+		"word": "terse",
+		"meaning": "using few words, laconic",
+		"phrase": "“Are you feeling any better?” “No!”, was the terse reply."
+	},
+	{
+		"word": "laconic",
+		"meaning": "using few words, terse",
+		"phrase": "She had a laconic wit"
+	},
+	{
+		"word": "curt",
+		"meaning": "rude as a result of being terse (= few words, very quick), brusque",
+		"phrase": "He sent a curt, one-sentence letter of resignation to the mayor"
+	},
+	{
+		"word": "brusque",
+		"meaning": "rude as a result of being terse (= few words, very quick), curt",
+		"phrase": "His secretary was a little brusque with me"
+	},
+	{
+		"word": "sketchy",
+		"meaning": "incomplete, not thorough or detailed, “esboçado”",
+		"phrase": "The information they had was sketchy"
+	},
+	{
+		"word": "trivial",
+		"meaning": ["having little value of importance", "easy to solve"],
+		"phrase": ["I don't know why he gets so upset about something so trivial", "Getting computers to understand human language is not a trivial problem"]
 	}
 
 ]
