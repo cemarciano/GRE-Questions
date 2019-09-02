@@ -16,6 +16,13 @@ $(document).ready(function(){
 		// Saves json data:
 		words = data;
 
+        // Obtains URL parameters:
+        let totalNumWords = obtainTotalFromURL();
+        // If total number of words was specified, filters only the most recent totalNumWords:
+        if (totalNumWords != null) {
+            words = words.slice(words.length-totalNumWords,words.length)
+        }
+
 		// Initializes progress bar:
 		updateProgressBar();
 
@@ -171,6 +178,13 @@ function createDefinition(){
 			});
 		}
 	}
+}
+
+function obtainTotalFromURL(){
+	// Captures URL parameters:
+	let urlParams = new URLSearchParams(window.location.search);
+	// Returns total number of words:
+	return urlParams.get("total");
 }
 
 function capitalize(s){
