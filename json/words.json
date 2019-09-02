@@ -2693,6 +2693,266 @@
 		"word": "trivial",
 		"meaning": ["having little value of importance", "easy to solve"],
 		"phrase": ["I don't know why he gets so upset about something so trivial", "Getting computers to understand human language is not a trivial problem"]
-	}
+	},
+    {
+        "word": "compelling",
+        "meaning": ["convincing", "holding attention, very interesting"],
+        "phrase": ["Compelling evidence", "It's a fairly compelling argument for going", "She gave a compelling and intensely dramatic performance"]
+    },
+    {
+        "word": "abase",
+        "meaning": "“se rebaixar”, behave in a way that belittles or degrades (someone)",
+        "phrase": "I watched my colleagues abasing themselves before the board of trustees"
+    },
+    {
+        "word": "abate",
+        "meaning": "to diminish in strength.",
+        "phrase": ["The rain has started to abate", "Abate a tax"]
+    },
+    {
+        "word": "aberrant",
+        "meaning": "deviant, diverging from normal",
+        "phrase": "A normal fetus might falsely appear trisomic if an extra signal occurs as a result of aberrant binding"
+    },
+    {
+        "word": "abeyance",
+        "meaning": "suspension, not happening",
+        "phrase": ["Hostilities between the two groups have been in abeyance since last June", "The project is being held in abeyance until agreement is reached on funding it"]
+    },
+    {
+        "word": "abjure",
+        "meaning": "renounce, relinquish",
+        "phrase": "His refusal to abjure the Catholic faith"
+    },
+    {
+        "word": "abscond",
+        "meaning": "leave hurriedly and secretly so as to escape from somewhere",
+        "phrase": ["Two prisoners absconded last night", "She absconded from boarding school with her boyfriend"]
+    },
+    {
+        "word": "abstain",
+        "meaning": "refrain from doing or enjoying something",
+        "phrase": "Abstaining from chocolate"
+    },
+    {
+        "word": "abstemious",
+        "meaning": "to abstain from something, refrain from doing or enjoying it",
+        "phrase": "One object that I had in view in adopting my abstemious way of life was to save a little money to buy books"
+    },
+    {
+        "word": "indulgence",
+        "meaning": "occasion where you’re allowed to have something enjoyable, not abstemious",
+        "phrase": ["All the pleasures and indulgences of the weekend are over, and I must get down to some serious hard work", "His health suffered from over-indulgence in (= too much) rich food and drink"]
+    },
+    {
+        "word": "accretion",
+        "meaning": "accumulation, addition",
+        "phrase": ["The fund was increased by the accretion of new shareholders", "The room hadn't been cleaned for years and showed several accretions of dirt and dust"]
+    },
+    {
+        "word": "acidulous",
+        "meaning": "bitter, harsh, critical",
+        "phrase": "An acidulous portrait of the candidate"
+    },
+    {
+        "word": "acme",
+        "meaning": "pinnacle, the best thing one can achieve.",
+        "phrase": "To act on this world-famous stage is surely the acme of any actor's career"
+    },
+    {
+        "word": "adulterate",
+        "meaning": "make impure by adding a lower quality substance",
+        "phrase": "There were complaints that the beer had been adulterated with water"
+    },
+    {
+        "word": "advocate",
+        "meaning": "to support, to recommend",
+        "phrase": ["He was an untiring advocate of economic reform", "They advocated an ethical foreign policy"]
+    },
+    {
+        "word": "aerie",
+        "meaning": "the nest of an eagle, usually built in a very high place"
+    },
+    {
+        "word": "aesthetic",
+        "meaning": "beauty, beautiful",
+        "phrase": ["The new building has little aesthetic value/appeal", "Furniture that is both aesthetic and functional"]
+    },
+    {
+        "word": "affect",
+        "meaning": "to influence something or someone, to cause a change to someone or something",
+        "phrase": ["Both buildings were badly affected by the fire", "I was deeply affected by the film (= it caused strong feelings in me)"]
+    },
+    {
+        "word": "aggrandize",
+        "meaning": "to become more powerful or important"
+    },
+    {
+        "word": "alacrity",
+        "meaning": "speed and eagerness",
+        "phrase": ["She accepted the money with alacrity", "He accepted the invitation with alacrity"]
+    },
+    {
+        "word": "alleviate",
+        "meaning": "make something less severe",
+        "phrase": "He couldn't prevent her pain, only alleviate it"
+    },
+    {
+        "word": "amalgamate",
+        "meaning": "to join together or unite",
+        "phrase": "The electricians' union is planning to amalgamate with the technicians' union"
+    },
+    {
+        "word": "analgesia",
+        "meaning": "not feeling pain (but still conscious)"
+    },
+    {
+        "word": "anodyne",
+        "meaning": "avoiding offense or conflict or disagreement, usually by not expressing strong opinions, harmless",
+        "phrase": ["This is daytime television at its most anodyne", "She tried to keep the conversation as anodyne as possible"]
+    },
+    {
+        "word": "antagonize",
+        "meaning": "to make someone dislike you",
+        "phrase": ["The company doesn’t want to antagonize one of its biggest oil suppliers", "His criticism antagonized his friends"]
+    },
+    {
+        "word": "apathy",
+        "meaning": "indifference, lack of interest, enthusiasm, or concern"
+    },
+    {
+        "word": "apocryphal",
+        "meaning": "probably not true but widely accepted as such",
+        "phrase": "An apocryphal story about a former president"
+    },
+    {
+        "word": "apostate",
+        "meaning": "renegade, someone who gave up a religion or a political party",
+        "phrase": ["An apostate Roman Catholic", "In those days apostasy was punishable by death"]
+    },
+    {
+        "word": "apostasy",
+        "meaning": "the act of giving up a religion or a political party",
+        "phrase": ["In those days apostasy was punishable by death", "An apostate Roman Catholic"]
+    },
+    {
+        "word": "approbation",
+        "meaning": "approval, praise",
+        "phrase": "The opera met with high approbation"
+    },
+    {
+        "word": "arbitrate",
+        "meaning": "to make a judgement, “ser árbitro em uma disputa”",
+        "phrase": "The board has the power to arbitrate in disputes"
+    },
+    {
+        "word": "ardor",
+        "meaning": "zeal, passion, enthusiasm, fervor",
+        "phrase": "They felt the stirrings of revolutionary ardor"
+    },
+    {
+        "word": "arrogate",
+        "meaning": "to claim something without the power to do so, with no justification",
+        "phrase": "They arrogate to themselves the power to punish people"
+    },
+    {
+        "word": "articulate",
+        "meaning": "to speak fluently and coherently",
+        "phrase": "An articulate account of their experiences"
+    },
+    {
+        "word": "assuage",
+        "meaning": ["relieve, alleviate", "satisfy"],
+        "phrase": ["The letter assuaged the fears of most members", "An opportunity occurred to assuage her desire for knowledge"]
+    },
+    {
+        "word": "augury",
+        "meaning": "presage, the work of an augur, a sign of what will happen in the future, omen",
+        "phrase": "They heard the sound as an augury of death"
+    },
+    {
+        "word": "omen",
+        "meaning": "presage, an event that is thought to tell something about the future, augury",
+        "phrase": "Scoring that goal was an omen of things to come"
+    },
+    {
+        "word": "august",
+        "meaning": "prominent, majestic, respected, important",
+        "phrase": ["We toured the august chambers of the Supreme Court", "An august mansion"]
+    },
+    {
+        "word": "eminent",
+        "meaning": "prominent, famous, respected, outstanding",
+        "phrase": ["One of the world's most eminent statisticians", "The guitar's eminent suitability for recording studio work"]
+    },
+    {
+        "word": "axiom",
+        "meaning": "a statement that is generally accepted to be true",
+        "phrase": "The axiom that supply equals demand"
+    },
+    {
+        "word": "belfry",
+        "meaning": "a bell tower"
+    },
+    {
+        "word": "bilk",
+        "meaning": "swindle, defraud, con, obtain money from someone by deceiving them",
+        "phrase": ["Government waste has bilked the taxpayer of billions of dollars", "Thousands of investors claimed they had been bilked by his schemes"]
+    },
+    {
+        "word": "blight",
+        "meaning": "spoil, damage, plague",
+        "phrase": ["Poverty and disease blighted their lives", "The scandal blighted the careers of several leading politicians"]
+    },
+    {
+        "word": "bolster",
+        "meaning": "support, strengthen, boost",
+        "phrase": "The fall in interest rates is starting to bolster confidence"
+    },
+    {
+        "word": "bombastic",
+        "meaning": "pompous, grandiloquent, using difficult words to make people think you know more than you really do",
+        "phrase": "A bombastic statement"
+    },
+    {
+        "word": "bonhomie",
+        "meaning": "Conviviality, amiability, good humor, friendliness, geniality",
+        "phrase": "He exuded good humor and bonhomie"
+    },
+    {
+        "word": "geniality",
+        "meaning": "Conviviality, amiability, good humor, friendliness, bonhomie",
+        "phrase": "He was endowed with geniality and good humor"
+    },
+    {
+        "word": "exude",
+        "meaning": "emanate",
+        "phrase": ["The beetle exudes a caustic liquid", "Mr. Thomas exuded friendship and goodwill"]
+    },
+    {
+        "word": "boor",
+        "meaning": "an unrefined and ill-mannered person, lout, hooligan, ruffian",
+        "phrase": "At last the big obnoxious boor had been dealt a stunning blow for his uncouth and belligerent manner"
+    },
+    {
+        "word": "burgeon",
+        "meaning": "to grow, to increase rapidly",
+        "phrase": "Manufacturers are keen to cash in on the burgeoning demand"
+    },
+    {
+        "word": "burnish",
+        "meaning": "to polish, to improve",
+        "phrase": ["Highly burnished armor", "The company is currently trying to burnish its socially responsible image"]
+    },
+    {
+        "word": "cacophony",
+        "meaning": "a discordant mixture of sounds",
+        "phrase": ["A cacophony of deafening alarm bells", "Despite the cacophony, Rita slept on"]
+    },
+    {
+        "word": "canard",
+        "meaning": "a false report intended to deceive",
+        "phrase": "The old canard that LA is a cultural wasteland"
+    }
 
 ]
