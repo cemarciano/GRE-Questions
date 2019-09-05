@@ -76,6 +76,21 @@
 		"word": "plow",
 		"meaning": "arado"
 	},
+    {
+		"word": "diffidence",
+		"meaning": "hesitancy or shyness resulting from a lack of self-confidence, unassertive",
+        "phrase": "Whatever made him diffident at the prospect of having a military strike ordered in his defense, he kept it to himself"
+	},
+    {
+		"word": "unassertive",
+		"meaning": "hesitancy or shyness resulting from a lack of self-confidence, diffidence",
+        "phrase": "She seemed unassertive and lacking confidence"
+	},
+    {
+        "word": "fanciful",
+        "meaning": "Overimaginative and unrealistic",
+        "phrase": "A fanciful story about a pot of gold"
+    }
 	{
 		"word": "inordinate",
 		"meaning": "Disproportionately large, excessive.",
