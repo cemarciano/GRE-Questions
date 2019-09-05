@@ -2696,7 +2696,7 @@
 	},
     {
         "word": "compelling",
-        "meaning": ["convincing", "holding attention, very interesting"],
+        "meaning": ["convincing, cogent", "holding attention, very interesting"],
         "phrase": ["Compelling evidence", "It's a fairly compelling argument for going", "She gave a compelling and intensely dramatic performance"]
     },
     {
@@ -2953,6 +2953,145 @@
         "word": "canard",
         "meaning": "a false report intended to deceive",
         "phrase": "The old canard that LA is a cultural wasteland"
+    },
+    {
+        "word": "catholic",
+        "meaning": "diverse, varied",
+        "phrase": "Her tastes are pretty catholic"
+    },
+    {
+        "word": "caustic",
+        "meaning": ["corrosive, able to burn or corrode by chemical action", "critical and sarcastic"],
+        "phrase": ["A caustic substance", "The players were making caustic comments about the refereeing"]
+    },
+    {
+        "word": "chauvinist",
+        "meaning": "excessive (and full of prejudice) belief for a cause, especially patriotic",
+        "phrase": "A chauvinist is a prejudiced person who is intolerant of any opinions differing from his own"
+    },
+    {
+        "word": "circumspect",
+        "meaning": "cautious, wary, unwilling to take risks",
+        "phrase": "This is a very sensitive case requiring extreme circumspection"
+    },
+    {
+        "word": "cloying",
+        "meaning": "“meloso”, disgust with an excess of sweetness or sentiment",
+        "phrase": ["A romantic, rather cloying story", "This is a wonderful wine - honeyed and rich without being remotely cloying"]
+    },
+    {
+        "word": "coffer",
+        "meaning": ["chest", "“cofre”"],
+        "phrase": ["The small coffer which had held Herluin's treasury", "With the increased revenue coming to the state's coffers, hiring freezes can now be lifted"]
+    },
+    {
+        "word": "cogent",
+        "meaning": "convincing, compelling",
+        "phrase": "They put forward cogent arguments for British membership"
+    },
+    {
+        "word": "collusion",
+        "meaning": "a secret agreement for an illegal or dishonest reason",
+        "phrase": ["The armed forces were working in collusion with drug traffickers", "The companies were accused of acting in collusion to fix prices"]
+    },
+    {
+        "word": "condone",
+        "meaning": "allow a wrong behvior to continue",
+        "phrase": "The college cannot condone any behavior that involves illicit drugs"
+    },
+    {
+        "word": "Contumacious",
+        "meaning": "stubbornly disobedient, rebellious",
+        "phrase": "She was warned that her contumacious conduct would not be tolerated"
+    },
+    {
+        "word": "Cosset",
+        "meaning": "to treat with extreme or excessive care and attention, to treat as a pet, spoil, pamper",
+        "phrase": "All her life she'd been cosseted by her family"
+    },
+    {
+        "word": "pamper",
+        "meaning": "to treat with extreme or excessive care and attention, to treat as a pet, spoil, cosset",
+        "phrase": "All her life she'd been pampered by her family"
+    },
+    {
+        "word": "coterie",
+        "meaning": "inner circle, a small group of people with shared interests, usually that does not want others to join the group",
+        "phrase": "A coterie of writers"
+    },
+    {
+        "word": "clique",
+        "meaning": "inner circle, a small group of people with shared interests, usually that does not want others to join the group",
+        "phrase": "There's a clique at work that never talks/who never talk to anyone else"
+    },
+    {
+        "word": "craven",
+        "meaning": "(adj) cowardly",
+        "phrase": "A craven act of terrorism"
+    },
+    {
+        "word": "Credulous",
+        "meaning": "naive, easily persuaded to believe something, believe anything, gullible",
+        "phrase": "A ceremony staged for credulous tourists"
+    },
+    {
+        "word": "gullible",
+        "meaning": "naive, easily persuaded to believe something, believe anything, credulous",
+        "phrase": "An attempt to persuade a gullible public to spend their money"
+    },
+    {
+        "word": "crescendo",
+        "meaning": "gradually increasing in loudness",
+        "phrase": "The reluctant cheers began to crescendo"
+    },
+    {
+        "word": "cupidity",
+        "meaning": "greed for money",
+        "phrase": "The cupidity of the bankers"
+    },
+    {
+        "word": "Curmudgeon",
+        "meaning": "a grumpy old person"
+    },
+    {
+        "word": "debutante",
+        "meaning": "a young woman making her first appearance in society",
+        "phrase": "A debutantes' ball"
+    },
+    {
+        "word": "declivity",
+        "meaning": "downward inclination, lower area",
+        "phrase": "At the bottom of the field was a wooded declivity"
+    },
+    {
+        "word": "Decorous",
+        "meaning": "suitable, good taste, polite, seemly, appropriate, correct, decorum, propriety",
+        "phrase": ["Dancing with decorous space between partners", "You exhibit remarkable modesty and decorum"]
+    },
+    {
+        "word": "decorum",
+        "meaning": "suitable, good taste, polite, seemly, appropriate, correct, decorous, propriety",
+        "phrase": ["You exhibit remarkable modesty and decorum", "Dancing with decorous space between partners"]
+    },
+    {
+        "word": "propriety",
+        "meaning": "suitable, good taste, polite, seemly, appropriate, correct, decorous, decorum",
+        "phrase": "They questioned the propriety of certain investments made by the council"
+    },
+    {
+        "word": "deface",
+        "meaning": "vandalize, disfigure",
+        "phrase": "He defaced library book"
+    },
+    {
+        "word": "deleterious",
+        "meaning": "harmful, damaging",
+        "phrase": "Divorce is assumed to have deleterious effects on children"
+    },
+    {
+        "word": "demagogue",
+        "meaning": "a political leader who wins support by exciting emotions rather than good reasons",
+        "phrase": "A gifted demagogue with particular skill in manipulating the press"
     }
 
 ]
