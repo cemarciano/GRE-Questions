@@ -89,7 +89,7 @@
 			{"name": "Data Analysis", "completed": 0, "total": 26},
 			{"name": "Mixed Set 1", "completed": 17, "total": 25},
 			{"name": "Mixed Set 2", "completed": 25, "total": 25, "interesting": [10,13,17,19,21]},
-			{"name": "Mixed Set 3", "completed": 0, "total": 25}
+			{"name": "Mixed Set 3", "completed": 17, "total": 25, "wrong": [9]}
 		]
 	}
 ]
