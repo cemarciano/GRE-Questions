@@ -90,7 +90,7 @@
         "word": "fanciful",
         "meaning": "Overimaginative and unrealistic",
         "phrase": "A fanciful story about a pot of gold"
-    }
+    },
 	{
 		"word": "inordinate",
 		"meaning": "Disproportionately large, excessive.",
@@ -1203,13 +1203,13 @@
 	},
 	{
 		"word": "deftly",
-		"meaning": "skilfully, especially with the hands, “habilmente”, dexterity",
+		"meaning": "skilfully, “habilmente”, dexterity",
 		"phrase": ["She deftly avoided answering his question", "Her fingers moved deftly, quickly parting the grass"]
 
 	},
 	{
 		"word": "dexterity",
-		"meaning": "skilful, “hábil”, deftness",
+		"meaning": "skilful, especially with the hands, “hábil”, deftness",
 		"phrase": ["He caught the ball with great dexterity", "Young children lack the dexterity to brush their teeth effectively"]
 	},
 	{
@@ -3031,12 +3031,12 @@
     },
     {
         "word": "coterie",
-        "meaning": "inner circle, a small group of people with shared interests, usually that does not want others to join the group",
+        "meaning": "inner circle, a small group of people with shared interests, usually that does not want others to join the group, clique",
         "phrase": "A coterie of writers"
     },
     {
         "word": "clique",
-        "meaning": "inner circle, a small group of people with shared interests, usually that does not want others to join the group",
+        "meaning": "inner circle, a small group of people with shared interests, usually that does not want others to join the group, coterie",
         "phrase": "There's a clique at work that never talks/who never talk to anyone else"
     },
     {
@@ -3107,6 +3107,131 @@
         "word": "demagogue",
         "meaning": "a political leader who wins support by exciting emotions rather than good reasons",
         "phrase": "A gifted demagogue with particular skill in manipulating the press"
-    }
+    },
+	{
+		"word": "desultory",
+		"meaning": "lacking a plan, random",
+		"phrase": ["A few people were left, dancing in a desultory fashion", "Desultory passengers were appearing"]
+	},
+	{
+		"word": "diaphanous",
+		"meaning": "a substance so delicate and thin that you can see through it",
+		"phrase": "A diaphanous silk veil"
+	},
+	{
+		"word": "dictum",
+		"meaning": "a saying",
+		"phrase": ["Awaiting the king's dictum", "Must follow the dictum “First, do no harm”"]
+	},
+	{
+		"word": "dilate",
+		"meaning": "become wider, enlarge",
+		"phrase": "Her eyes dilated with horror"
+	},
+	{
+		"word": "dilatory",
+		"meaning": "slow and likely to cause delay, wasting time",
+		"phrase": ["British institutions have been dilatory in cutting credit card charges", "They resorted to dilatory procedural tactics, forcing a postponement of peace talks"]
+	},
+	{
+		"word": "dilettante",
+		"meaning": "amateur, a person who cultivates an area of interest without real commitment",
+		"phrase": "A wealthy literary dilettante"
+	},
+	{
+		"word": "dirge",
+		"meaning": "a lament for the dead, especially one in a funeral rite, elegy",
+		"phrase": "Singers chanted dirges"
+	},
+	{
+		"word": "elegy",
+		"meaning": "a lament for the dead, especially one in a funeral rite, dirge",
+		"phrase": "Singers chanted elegies"
+	},
+	{
+		"word": "disabuse",
+		"meaning": "(verb) persuade someone that an idea or belief is mistaken, disillusion",
+		"phrase": "He quickly disabused me of my fanciful notions"
+	},
+	{
+		"word": "disillusion",
+		"meaning": "(verb) persuade someone that an idea or belief is mistaken, disabuse",
+		"phrase": "If they think we have a magic formula to solve the problem, don't disillusion them"
+	},
+	{
+		"word": "discern",
+		"meaning": "perceive, recognize",
+		"phrase": ["I can discern no difference between the two policies", "She could faintly discern the shape of a skull"]
+	},
+	{
+		"word": "distaff",
+		"meaning": "feminine, involving women",
+		"phrase": ["Distaff executives", "In 1948, Joanna's grandmother on the distaff side won the title"]
+	},
+	{
+		"word": "distend",
+		"meaning": "expand, become larger, swell",
+		"phrase": "The abdomen distended rapidly"
+	},
+	{
+		"word": "swell",
+		"meaning": ["expand, become larger, distend", "to be intensely affected, to be filled with"],
+		"phrase": ["The murmur swelled to a roar", "She felt herself swell with pride"]
+	},
+	{
+		"word": "dither",
+		"meaning": "to be indecisive",
+		"phrase": "He was dithering about the election date"
+	},
+	{
+		"word": "diurnal",
+		"meaning": ["recurring every day", "occurring during the day"],
+		"phrase": ["Diurnal tasks", "The city's diurnal noises"]
+	},
+	{
+		"word": "doctrinaire",
+		"meaning": "following fixed beliefs rather than considering practical problems, dogmatic",
+		"phrase": "He has a somewhat doctrinaire approach to running the company"
+	},
+	{
+		"word": "dogma",
+		"meaning": "a set of principles that are incontrovertibly true",
+		"phrase": "I confess that I have a certain difficulty in accepting this dogma"
+	},
+	{
+		"word": "droll",
+		"meaning": "funny, amusing",
+		"phrase": "I always loved his droll sense of humor"
+	},
+	{
+		"word": "dupe",
+		"meaning": ["(verb) trick, deceive", "(noun) someone who has been tricked"],
+		"phrase": ["The newspaper was duped into publishing an untrue story", "An innocent dupe"]
+	},
+	{
+		"word": "dyspeptic",
+		"meaning": "grumpy because of indigestion or depression",
+		"phrase": "“Get off my lawn!”, said the dyspeptic old man"
+	},
+	{
+		"word": "ebullient",
+		"meaning": "cheerful and energetic",
+		"phrase": "She sounded ebullient and happy"
+	},
+	{
+		"word": "edify",
+		"meaning": "educate, improve someone’s mind",
+		"phrase": "Aside from offering rudimentary explanations of germ theory, it edified readers about the transmission of syphilis"
+	},
+	{
+		"word": "effigy",
+		"meaning": "a model of a (usually hated) person",
+		"phrase": "Crowds marched through the streets carrying burning effigies of the president"
+	},
+	{
+		"word": "effrontery",
+		"meaning": "“afronta”, insolent or impertinent behavior",
+		"phrase": "He was silent all through the meal and then had the effrontery to complain that I looked bored!"
+	}
 
 ]
