@@ -17,7 +17,7 @@
 			{"name": "Number Properties", "completed": 20, "total": 39},
 			{"name": "Word Problems", "completed": 15, "total": 28, "interesting": [13]},
 			{"name": "Two-Variable Word Problems", "completed": 0, "total": 25},
-			{"name": "Rates and Work", "completed": 0, "total": 29},
+			{"name": "Rates and Work", "completed": 11, "total": 29, "wrong": [6], "interesting": [8,10]},
 			{"name": "Variables-in-the-Choices Problems", "completed": 0, "total": 20},
 			{"name": "Ratios", "completed": 20, "total": 36, "wrong": [2,16,18]},
 			{"name": "Averages, Weighted Averages, Median, and Mode", "completed": 15, "total": 37, "wrong": [8,15]},
