@@ -3232,6 +3232,99 @@
 		"word": "effrontery",
 		"meaning": "“afronta”, insolent or impertinent behavior",
 		"phrase": "He was silent all through the meal and then had the effrontery to complain that I looked bored!"
+	},
+	{
+		"word": "eloquent",
+		"meaning": ["expressing oneself clearly and sometimes persuasively", "indicative of something"],
+		"phrase": ["When required, he could be an eloquent speaker, but preferred talking to small groups", "The pictures of destruction served as an eloquent reminder of the hurricane’s power", "The touches of fatherliness are eloquent of the real man"]
+	},
+	{
+		"word": "embellish",
+		"meaning": "make something more attractive or interesting. A story can be embellished with false details",
+		"phrase": ["Blue silk embellished with golden embroidery", "She had real difficulty telling the truth because she liked to embellish things"]
+	},
+	{
+		"word": "emulate",
+		"meaning": "imitate",
+		"phrase": ["Lesser men trying to emulate his greatness", "Hers is not a hairstyle I wish to emulate"]
+	},
+	{
+		"word": "encomium",
+		"meaning": "panegyric, praise, eulogy"
+	},
+	{
+		"word": "eulogy",
+		"meaning": "panegyric, praise, encomium"
+	},
+	{
+		"word": "endemic",
+		"meaning": "regularly found within a certain area",
+		"phrase": ["Complacency is endemic in industry today", "A marsupial endemic to northeastern Australia"]
+	},
+	{
+		"word": "engender",
+		"meaning": "generate",
+		"phrase": ["Your book has engendered much controversy", "The issue engendered continuing controversy"]
+	},
+	{
+		"word": "epicure",
+		"meaning": "gourmet, gourmand, taking pleasure in food and drink",
+		"phrase": "They see themselves as epicures – delighting in food that is properly prepared"
+	},
+	{
+		"word": "eschew",
+		"meaning": "avoid, abstain from",
+		"phrase": ["He appealed to the crowd to eschew violence", "The leaders of the organization eschewed the term “union”, preferring “guild.”"]
+	},
+	{
+		"word": "estimable",
+		"meaning": "worthy of great respect",
+		"phrase": "Her performance under such stressful conditions was estimable"
+	},
+	{
+		"word": "ethos",
+		"meaning": "a set of beliefs and ideas about behavior, character and moral beliefs",
+		"phrase": ["Violence is part of their ethos", "The ethos of the traditional family firm is being threatened"]
+	},
+	{
+		"word": "euphony",
+		"meaning": "pleasant to the ear",
+		"phrase": "The poet put euphony before mere factuality"
+	},
+	{
+		"word": "exacerbate",
+		"meaning": "make something worse",
+		"phrase": "The exorbitant cost of land in urban areas only exacerbated the problem"
+	},
+	{
+		"word": "exculpate",
+		"meaning": "to clear one’s charges, “desculpar”, exonerate",
+		"phrase": "The article exculpated the mayor"
+	},
+	{
+		"word": "exonerate",
+		"meaning": ["to clear one’s charges, “desculpar”, exculpate", "to release someone from a duty or obligation"],
+		"phrase": "They should exonerate these men from this crime"
+	},
+	{
+		"word": "expurgate",
+		"meaning": "to censor, to remove parts of a piece of writing that are considered inappropriate",
+		"phrase": "The book was expurgated to make it suitable for children"
+	},
+	{
+		"word": "bowdlerize",
+		"meaning": "to censor, to remove parts of a piece of writing that are considered inappropriate",
+		"phrase": "The book was bowdlerized to make it suitable for children"
+	},
+	{
+		"word": "fatuous",
+		"meaning": "stupid and pointless",
+		"phrase": "A fatuous comment"
+	},
+	{
+		"word": "fervid",
+		"meaning": "enthusiastic to an excessive degree",
+		"phrase": "A letter of fervid thanks"
 	}
 
 ]
