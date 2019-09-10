@@ -117,12 +117,12 @@
 	},
 	{
 		"word": "hackneyed",
-		"meaning": "(of a phrase or an idea) lacking significance for having been overused",
+		"meaning": "(of a phrase or an idea) lacking significance for having been overused, trite, hoary",
 		"phrase": "Hackneyed old sayings"
 	},
 	{
 		"word": "trite",
-		"meaning": "(of a phrase or an idea) lacking significance for having been overused",
+		"meaning": "(of a phrase or an idea) lacking significance for having been overused, hackneyed, hoary",
 		"phrase": "This point may now seem obvious and trite"
 	},
 	{
@@ -1353,7 +1353,7 @@
 	},
 	{
 		"word": "hamper",
-		"meaning": ["basket used for laundry", "hinder, impede the movement or progress of"],
+		"meaning": ["basket used for laundry", "hinder, impede or slow the movement or progress of"],
 		"phrase": "Their work is hampered by lack of funds"
 	},
 	{
@@ -1388,12 +1388,12 @@
 	},
 	{
 		"word": "marshal",
-		"meaning": "(verb) gather, arrange, assemble",
+		"meaning": "(verb) gather, arrange, assemble, muster, garner",
 		"phrase": ["The president is trying to marshal support for his plan", "The general marshaled his troops"]
 	},
 	{
 		"word": "muster",
-		"meaning": "(verb) gather, arrange, assemble",
+		"meaning": "(verb) gather, arrange, assemble, marshal, garner",
 		"phrase": ["He could fail to muster a majority", "Reporters mustered outside her house"]
 	},
 	{
@@ -1838,7 +1838,7 @@
 	},
 	{
 		"word": "frisky",
-		"meaning": "playful and full of energy, frolic",
+		"meaning": "playful and full of energy, frolic, to gambol",
 		"phrase": "He bounds about like a frisky pup"
 	},
 	{
@@ -2033,27 +2033,27 @@
 	},
 	{
 		"word": "Headstrong",
-		"meaning": "Very determined to do something despite the wishes of others, stubborn",
+		"meaning": "Very determined to do something despite the wishes of others, stubborn, self-willed, willful, obstinate, obdurate",
 		"phrase": "She was a headstrong child, always getting into trouble"
 	},
 	{
 		"word": "self-willed",
-		"meaning": "Very determined to do something despite the wishes of others, stubborn",
+		"meaning": "Very determined to do something despite the wishes of others, stubborn, headstrong, willful, obstinate, obdurate",
 		"phrase": "He was very independent and self-willed"
 	},
 	{
 		"word": "willful",
-		"meaning": ["Very determined to do something despite the wishes of others, stubborn", "deliberate, intentional, according to one’s will (i.e. not necessarily stubborn)"],
+		"meaning": ["Very determined to do something despite the wishes of others, stubborn, headstrong, self-willed, obstinate, obdurate", "deliberate, intentional, according to one’s will (i.e. not necessarily stubborn)"],
 		"phrase": ["They eat huge quantities of sweet and fried foods, in wilful disregard of their health", "The present crisis is the result of years of wilful neglect by the council"]
 	},
 	{
 		"word": "obstinate",
-		"meaning": ["Very determined to do something despite the wishes of others, stubborn", "a problem difficult to overcome"],
+		"meaning": ["Very determined to do something despite the wishes of others, stubborn, headstrong, self-willed, willful, obdurate", "a problem difficult to overcome"],
 		"phrase": ["The engine obstinately refused to start", "The obstinate problem of unemployment"]
 	},
 	{
 		"word": "obdurate",
-		"meaning": "Very determined to do something despite the wishes of others, stubborn",
+		"meaning": "Very determined to do something despite the wishes of others, stubborn, headstrong, self-willed, willful, obstinate",
 		"phrase": "I argued this point with him, but he was obdurate"
 	},
 	{
@@ -2315,7 +2315,7 @@
 	},
 	{
 		"word": "frolic",
-		"meaning": "playful and full of energy, frisk",
+		"meaning": "playful and full of energy, frisk, to gambol",
 		"phrase": "A group of suntanned children were frolicking on the beach"
 	},
 	{
@@ -2429,7 +2429,7 @@
 	},
 	{
 		"word": "obviate",
-		"meaning": "avoid",
+		"meaning": "avoid, eschew",
 		"phrase": "A peaceful solution would obviate the need to send a UN military force"
 	},
 	{
@@ -3273,7 +3273,7 @@
 	},
 	{
 		"word": "eschew",
-		"meaning": "avoid, abstain from",
+		"meaning": "avoid, abstain from, obviate",
 		"phrase": ["He appealed to the crowd to eschew violence", "The leaders of the organization eschewed the term “union”, preferring “guild.”"]
 	},
 	{
@@ -3308,12 +3308,12 @@
 	},
 	{
 		"word": "expurgate",
-		"meaning": "to censor, to remove parts of a piece of writing that are considered inappropriate",
+		"meaning": "to censor, to remove parts of a piece of writing that are considered inappropriate, bowdlerize",
 		"phrase": "The book was expurgated to make it suitable for children"
 	},
 	{
 		"word": "bowdlerize",
-		"meaning": "to censor, to remove parts of a piece of writing that are considered inappropriate",
+		"meaning": "to censor, to remove parts of a piece of writing that are considered inappropriate, expurgate",
 		"phrase": "The book was bowdlerized to make it suitable for children"
 	},
 	{
@@ -3325,6 +3325,270 @@
 		"word": "fervid",
 		"meaning": "enthusiastic to an excessive degree",
 		"phrase": "A letter of fervid thanks"
+	},
+	{
+		"word": "foment",
+		"meaning": "instigate, stir up",
+		"phrase": "They accused him of fomenting political unrest"
+	},
+	{
+		"word": "ford",
+		"meaning": "cross a river at a shallow place",
+		"phrase": "The horses forded the river without any problems"
+	},
+	{
+		"word": "Forestall",
+		"meaning": "to prevent something from happening",
+		"phrase": ["Many doctors prescribe aspirin to forestall second heart attacks", "Vitamins may forestall many diseases of aging"]
+	},
+	{
+		"word": "fractious",
+		"meaning": "cranky, rebellious and inclined to cause problems",
+		"phrase": ["Fractious relationships", "They fight and squabble like fractious children"]
+	},
+	{
+		"word": "furtive",
+		"meaning": "avoid notice or attention, behaving secretly",
+		"phrase": ["They exchanged furtive gestures and words of encouragement", "She glanced furtively at the papers on his desk"]
+	},
+	{
+		"word": "gambol",
+		"meaning": "frolic, frisk",
+		"phrase": "The mare gamboled toward her"
+	},
+	{
+		"word": "garner",
+		"meaning": "gather, collect",
+		"phrase": "The police struggled to garner sufficient evidence"
+	},
+	{
+		"word": "glib",
+		"meaning": "to speak fluently but incinsere and shallow",
+		"phrase": "During the debate, Crivella gave a glib description of his budget plans for the city"
+	},
+	{
+		"word": "glower",
+		"meaning": "to give an angry look",
+		"phrase": "Grant glowered at the kids crossing his lawn"
+	},
+	{
+		"word": "gregarious",
+		"meaning": "fond of company, sociable",
+		"phrase": "He was a popular and gregarious man"
+	},
+	{
+		"word": "grievous",
+		"meaning": "having serious effect or causing great pain",
+		"phrase": "It was a grievous head wound, and he was not expected to survive"
+	},
+	{
+		"word": "grovel",
+		"meaning": "“beijar os pés”, act obsequiously in order to obtain forgiveness or favor, to fawn",
+		"phrase": ["My dog grovels at my feet when she’s done something wrong", "I’ll apologize, but I won’t grovel just because I made a mistake"]
+	},
+	{
+		"word": "hapless",
+		"meaning": "unfortunate, unlucky",
+		"phrase": "Hapless victims of the earthquake"
+	},
+	{
+		"word": "hoary",
+		"meaning": "trite, hackneyed",
+		"phrase": "That hoary American notion that bigger is better"
+	},
+	{
+		"word": "iconoclast",
+		"meaning": "someone who attacks ideas or institutions",
+		"phrase": "Rogers, an iconoclast in architecture, is sometimes described as putting the insides of buildings on the outside"
+	},
+	{
+		"word": "ignoble",
+		"meaning": "morally bad, dishonorable, shameful",
+		"phrase": "Ignoble feelings of intense jealousy"
+	},
+	{
+		"word": "imbue",
+		"meaning": "to be filled with",
+		"phrase": "An officer imbued with a military sense of duty and loyalty"
+	},
+	{
+		"word": "impasse",
+		"meaning": "a deadlock, where no progress can be made",
+		"phrase": "The current political impasse"
+	},
+	{
+		"word": "imperturbable",
+		"meaning": "calm, tranquil",
+		"phrase": "An imperturbable tranquility"
+	},
+	{
+		"word": "impervious",
+		"meaning": ["impermeable, not allowing liquid to pass through", "not affected by something"],
+		"phrase": ["He worked, apparently impervious to the heat", "He seems to be impervious to pain", "He is impervious to criticism and rational argument"]
+	},
+	{
+		"word": "impetuous",
+		"meaning": "impulsive, done quickly and without care",
+		"phrase": ["Then, impetuous as I was, I bought a new car before I even got a job", "An impetuous but controlled flow of water"]
+	},
+	{
+		"word": "implacable",
+		"meaning": "unstoppable, unchangeable",
+		"phrase": "An implacable enemy"
+	},
+	{
+		"word": "imprecation",
+		"meaning": "to curse",
+		"phrase": "She hurled her imprecations at anyone who might be listening"
+	},
+	{
+		"word": "anathema",
+		"meaning": "abhorrent, repulsive",
+		"phrase": "Racial hatred was anathema to her"
+	},
+	{
+		"word": "impugn",
+		"meaning": "to question, to dispute the truth",
+		"phrase": "The father does not impugn her capacity as a good mother"
+	},
+	{
+		"word": "incarnadine",
+		"meaning": "(verb) to color red",
+		"phrase": "A spreading red stain incarnadined the sea"
+	},
+	{
+		"word": "inchoate",
+		"meaning": "only recently formed and therefore not completely developed",
+		"phrase": "A still inchoate democracy"
+	},
+	{
+		"word": "inculcate",
+		"meaning": "to indoctrinate by repeating beliefs or values frequently",
+		"phrase": "The goal is to inculcate in students a tolerance for people of other religions and races"
+	},
+	{
+		"word": "indolent",
+		"meaning": "lazy",
+		"phrase": "They were indolent and addicted to a life of pleasure"
+	},
+	{
+		"word": "inexorable",
+		"meaning": ["unstoppable", "impossible to persuade"],
+		"phrase": ["The seemingly inexorable march of new technology", "Aging is an inexorable process", "The doctors were inexorable, and there was nothing to be done"]
+	},
+	{
+		"word": "ingrate",
+		"meaning": "“ingrato”"
+	},
+	{
+		"word": "ingratiate",
+		"meaning": "to make someone like you, “puxa-saco”",
+		"phrase": "He tries to ingratiate himself with the boss by saying that all her ideas are brilliant"
+	},
+	{
+		"word": "iniquity",
+		"meaning": "unfairness",
+		"phrase": "They fought long and hard against the iniquities of apartheid"
+	},
+	{
+		"word": "inquest",
+		"meaning": "an investigation, usually when there’s murder",
+		"phrase": "An inquest is always held if murder is suspected"
+	},
+	{
+		"word": "insipid",
+		"meaning": "uninteresting",
+		"phrase": ["An insipid flavor", "Insipid TV sitcoms", "Why anyone buys music with such insipid lyrics is a mystery"]
+	},
+	{
+		"word": "inter",
+		"meaning": "to bury a dead body, “enterrar”",
+		"phrase": "Many of the soldiers were interred in unmarked graves"
+	},
+	{
+		"word": "interregnum",
+		"meaning": "an interval between two events",
+		"phrase": "The interregnum between the discovery of radioactivity and its detailed understanding"
+	},
+	{
+		"word": "intransigent",
+		"meaning": "unwilling to change one’s view",
+		"phrase": "Her father had tried persuasion, but she was intransigent"
+	},
+	{
+		"word": "intrepid",
+		"meaning": "fearless, adventurous",
+		"phrase": "A team of intrepid explorers"
+	},
+	{
+		"word": "invective",
+		"meaning": "insulting and critical language, vituperation",
+		"phrase": "A stream of invective from some sectors of the press continues to assail the government"
+	},
+	{
+		"word": "investiture",
+		"meaning": "to give honors, authority, or an official rank",
+		"phrase": "The investiture of the new president will take place this evening"
+	},
+	{
+		"word": "invidious",
+		"meaning": "likely to cause unhappiness, unfair",
+		"phrase": ["We are not going to seek for invidious comparisons between governments", "Such a difficult choice placed her in an invidious position"]
+	},
+	{
+		"word": "envious",
+		"meaning": "showing envy, jealousy",
+		"phrase": "Envious of their neighbor's new car"
+	},
+	{
+		"word": "irascible",
+		"meaning": "irritable, having a tendency to be angered",
+		"phrase": "She's becoming more and more irascible as she grows older"
+	},
+	{
+		"word": "jettison",
+		"meaning": ["to throw away", "to decide not to use"],
+		"phrase": ["Some of her material will probably be jettisoned for the TV show", "The bombs were jettisoned over the English Channel", "We've had to jettison our trip because of David's accident", "After closing its trading operations and jettisoning its top executives, the firm began to make a profit"]
+	},
+	{
+		"word": "jingoism",
+		"meaning": "extreme patriotism, chauvinism",
+		"phrase": "The popular jingoism that swept the lower–middle classes"
+	},
+	{
+		"word": "judicious",
+		"meaning": "done with good judgement, wise, prudent",
+		"phrase": "The efficient and judicious use of pesticides"
+	},
+	{
+		"word": "quarrel",
+		"meaning": "to have a heated argument",
+		"phrase": "Stop quarreling with your sister"
+	},
+	{
+		"word": "quench",
+		"meaning": "apagar (um fogo ou desejo), extinguir",
+		"phrase": ["To quench a torch", "He only pursued her to quench an aching need"]
+	},
+	{
+		"word": "slit",
+		"meaning": "make a long, narrow cut",
+		"phrase": ["She killed herself by slitting her wrists", "She was wearing one of those skirts that's slit up the front"]
+	},
+	{
+		"word": "assertive",
+		"meaning": "confident",
+		"phrase": "Patients should be more assertive with their doctors"
+	},
+	{
+		"word": "copious",
+		"meaning": "abundant, plentiful",
+		"phrase": "She took copious notes"
+	},
+	{
+		"word": "bigotry",
+		"meaning": "intolerence towards others with different opinions",
+		"phrase": "The difficulties of combating prejudice and bigotry"
 	}
 
 ]
