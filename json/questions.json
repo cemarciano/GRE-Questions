@@ -59,8 +59,8 @@
 			{"name": "Test 1 - Math 2", "completed": 25, "total": 25, "wrong": [8,11,21,23,24], "interesting": [16]},
 			{"name": "Test 2 - Verbal 1", "completed": 0, "total": 25},
 			{"name": "Test 2 - Verbal 2", "completed": 0, "total": 25},
-			{"name": "Test 2 - Math 1", "completed": 0, "total": 25},
-			{"name": "Test 2 - Math 2", "completed": 0, "total": 25}
+			{"name": "Test 2 - Math 1", "completed": 25, "total": 25, "wrong": [24]},
+			{"name": "Test 2 - Math 2", "completed": 25, "total": 25, "interesting": [9]}
 		]
 	},
 	{
