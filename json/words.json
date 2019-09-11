@@ -3061,7 +3061,7 @@
     },
     {
         "word": "cupidity",
-        "meaning": "greed for money",
+        "meaning": "greed for money, avarice",
         "phrase": "The cupidity of the bankers"
     },
     {
@@ -3589,6 +3589,51 @@
 		"word": "bigotry",
 		"meaning": "intolerence towards others with different opinions",
 		"phrase": "The difficulties of combating prejudice and bigotry"
-	}
+	},
+	{
+		"word": "patent",
+		"meaning": "obvious, clear",
+		"phrase": "She was smiling with patent insincerity"
+	},
+	{
+		"word": "construe",
+		"meaning": "interpret, understand",
+		"phrase": "His words could hardly be construed as an apology"
+	},
+	{
+		"word": "collude",
+		"meaning": "conspire, cooperate in a secret and unlawful way",
+		"phrase": "The president accused his opponents of colluding with foreigners"
+	},
+	{
+		"word": "Ubiquituous",
+		"meaning": "omnipresent, found everywhere",
+		"phrase": "DNA is almost as ubiquituous in living beings as RNA"
+	},
+	{
+		"word": "debase",
+		"meaning": "degrade, reduce in quality",
+		"phrase": "The love episodes debase the dignity of the drama"
+	},
+	{
+		"word": "base(ness)",
+		"meaning": ["(adj) morally low, not showing honor", "(adj) of little value"],
+		"phrase": ["I accused him of having base motives", "Hastily composed of base materials"]
+	},
+	{
+		"word": "prevaricate",
+		"meaning": "tell a lie",
+		"phrase": "He accused the minister of prevaricating"
+	},
+	{
+		"word": "avarice",
+		"meaning": "extreme greed for money, cupidity",
+		"phrase": "He was rich beyond the dreams of avarice"
+	},
+	{
+		"word": "salubrious",
+		"meaning": "healthy, beneficial",
+		"phrase": "Healthy food has a salubrious effect on a person"
+	}	
 
 ]
